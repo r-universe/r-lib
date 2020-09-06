@@ -1,3 +1,320 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "backports"]
+	path = backports
+	url = https://github.com/r-lib/backports
+	shallow = true
+[submodule "bench"]
+	path = bench
+	url = https://github.com/r-lib/bench
+	shallow = true
+[submodule "brio"]
+	path = brio
+	url = https://github.com/r-lib/brio
+	shallow = true
+[submodule "callr"]
+	path = callr
+	url = https://github.com/r-lib/callr
+	shallow = true
+[submodule "carrier"]
+	path = carrier
+	url = https://github.com/r-lib/carrier
+	shallow = true
+[submodule "cleancall"]
+	path = cleancall
+	url = https://github.com/r-lib/cleancall
+	shallow = true
+[submodule "cli"]
+	path = cli
+	url = https://github.com/r-lib/cli
+	shallow = true
+[submodule "cliapp"]
+	path = cliapp
+	url = https://github.com/r-lib/cliapp
+	shallow = true
+[submodule "conflicted"]
+	path = conflicted
+	url = https://github.com/r-lib/conflicted
+	shallow = true
+[submodule "covr"]
+	path = covr
+	url = https://github.com/r-lib/covr
+	shallow = true
+[submodule "cpp11"]
+	path = cpp11
+	url = https://github.com/r-lib/cpp11
+	shallow = true
+[submodule "crayon"]
+	path = crayon
+	url = https://github.com/r-lib/crayon
+	shallow = true
+[submodule "credentials"]
+	path = credentials
+	url = https://github.com/r-lib/credentials
+	shallow = true
+[submodule "debugme"]
+	path = debugme
+	url = https://github.com/r-lib/debugme
+	shallow = true
+[submodule "decor"]
+	path = decor
+	url = https://github.com/r-lib/decor
+	shallow = true
+[submodule "desc"]
+	path = desc
+	url = https://github.com/r-lib/desc
+	shallow = true
+[submodule "devoid"]
+	path = devoid
+	url = https://github.com/r-lib/devoid
+	shallow = true
+[submodule "devtools"]
+	path = devtools
+	url = https://github.com/r-lib/devtools
+	shallow = true
+[submodule "downlit"]
+	path = downlit
+	url = https://github.com/r-lib/downlit
+	shallow = true
+[submodule "ellipsis"]
+	path = ellipsis
+	url = https://github.com/r-lib/ellipsis
+	shallow = true
+[submodule "evaluate"]
+	path = evaluate
+	url = https://github.com/r-lib/evaluate
+	shallow = true
+[submodule "fastmap"]
+	path = fastmap
+	url = https://github.com/r-lib/fastmap
+	shallow = true
+[submodule "filelock"]
+	path = filelock
+	url = https://github.com/r-lib/filelock
+	shallow = true
+[submodule "fs"]
+	path = fs
+	url = https://github.com/r-lib/fs
+	shallow = true
+[submodule "gargle"]
+	path = gargle
+	url = https://github.com/r-lib/gargle
+	shallow = true
+[submodule "generics"]
+	path = generics
+	url = https://github.com/r-lib/generics
+	shallow = true
+[submodule "gert"]
+	path = gert
+	url = https://github.com/r-lib/gert
+	shallow = true
+[submodule "gh"]
+	path = gh
+	url = https://github.com/r-lib/gh
+	shallow = true
+[submodule "gmailr"]
+	path = gmailr
+	url = https://github.com/r-lib/gmailr
+	shallow = true
+[submodule "gtable"]
+	path = gtable
+	url = https://github.com/r-lib/gtable
+	shallow = true
+[submodule "httr"]
+	path = httr
+	url = https://github.com/r-lib/httr
+	shallow = true
+[submodule "keyring"]
+	path = keyring
+	url = https://github.com/r-lib/keyring
+	shallow = true
+[submodule "later"]
+	path = later
+	url = https://github.com/r-lib/later
+	shallow = true
+[submodule "lifecycle"]
+	path = lifecycle
+	url = https://github.com/r-lib/lifecycle
+	shallow = true
+[submodule "liteq"]
+	path = liteq
+	url = https://github.com/r-lib/liteq
+	shallow = true
+[submodule "lobstr"]
+	path = lobstr
+	url = https://github.com/r-lib/lobstr
+	shallow = true
+[submodule "pak"]
+	path = pak
+	url = https://github.com/r-lib/pak
+	shallow = true
+[submodule "pillar"]
+	path = pillar
+	url = https://github.com/r-lib/pillar
+	shallow = true
+[submodule "pingr"]
+	path = pingr
+	url = https://github.com/r-lib/pingr
+	shallow = true
+[submodule "pkgbuild"]
+	path = pkgbuild
+	url = https://github.com/r-lib/pkgbuild
+	shallow = true
+[submodule "pkgcache"]
+	path = pkgcache
+	url = https://github.com/r-lib/pkgcache
+	shallow = true
+[submodule "pkgconfig"]
+	path = pkgconfig
+	url = https://github.com/r-lib/pkgconfig
+	shallow = true
+[submodule "pkgdown"]
+	path = pkgdown
+	url = https://github.com/r-lib/pkgdown
+	shallow = true
+[submodule "pkgload"]
+	path = pkgload
+	url = https://github.com/r-lib/pkgload
+	shallow = true
+[submodule "prettycode"]
+	path = prettycode
+	url = https://github.com/r-lib/prettycode
+	shallow = true
+[submodule "processx"]
+	path = processx
+	url = https://github.com/r-lib/processx
+	shallow = true
+[submodule "progress"]
+	path = progress
+	url = https://github.com/r-lib/progress
+	shallow = true
+[submodule "ps"]
+	path = ps
+	url = https://github.com/r-lib/ps
+	shallow = true
+[submodule "R6"]
+	path = R6
+	url = https://github.com/r-lib/r6
+	shallow = true
+[submodule "ragg"]
+	path = ragg
+	url = https://github.com/r-lib/ragg
+	shallow = true
+[submodule "rcmdcheck"]
+	path = rcmdcheck
+	url = https://github.com/r-lib/rcmdcheck
+	shallow = true
+[submodule "rematch2"]
+	path = rematch2
+	url = https://github.com/r-lib/rematch2
+	shallow = true
+[submodule "remotes"]
+	path = remotes
+	url = https://github.com/r-lib/remotes
+	shallow = true
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+	shallow = true
+[submodule "roxygen2"]
+	path = roxygen2
+	url = https://github.com/r-lib/roxygen2
+	shallow = true
+[submodule "roxygen2md"]
+	path = roxygen2md
+	url = https://github.com/r-lib/roxygen2md
+	shallow = true
+[submodule "scales"]
+	path = scales
+	url = https://github.com/r-lib/scales
+	shallow = true
+[submodule "sessioninfo"]
+	path = sessioninfo
+	url = https://github.com/r-lib/sessioninfo
+	shallow = true
+[submodule "showimage"]
+	path = showimage
+	url = https://github.com/r-lib/showimage
+	shallow = true
+[submodule "sloop"]
+	path = sloop
+	url = https://github.com/r-lib/sloop
+	shallow = true
+[submodule "styler"]
+	path = styler
+	url = https://github.com/r-lib/styler
+	shallow = true
+[submodule "svglite"]
+	path = svglite
+	url = https://github.com/r-lib/svglite
+	shallow = true
+[submodule "systemfonts"]
+	path = systemfonts
+	url = https://github.com/r-lib/systemfonts
+	shallow = true
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	shallow = true
+[submodule "tidyselect"]
+	path = tidyselect
+	url = https://github.com/r-lib/tidyselect
+	shallow = true
+[submodule "usethis"]
+	path = usethis
+	url = https://github.com/r-lib/usethis
+	shallow = true
+[submodule "vctrs"]
+	path = vctrs
+	url = https://github.com/r-lib/vctrs
+	shallow = true
+[submodule "vdiffr"]
+	path = vdiffr
+	url = https://github.com/r-lib/vdiffr
+	shallow = true
+[submodule "vroom"]
+	path = vroom
+	url = https://github.com/r-lib/vroom
+	shallow = true
+[submodule "waldo"]
+	path = waldo
+	url = https://github.com/r-lib/waldo
+	shallow = true
+[submodule "whoami"]
+	path = whoami
+	url = https://github.com/r-lib/whoami
+	shallow = true
+[submodule "withr"]
+	path = withr
+	url = https://github.com/r-lib/withr
+	shallow = true
+[submodule "xml2"]
+	path = xml2
+	url = https://github.com/r-lib/xml2
+	shallow = true
+[submodule "xmlparsedata"]
+	path = xmlparsedata
+	url = https://github.com/r-lib/xmlparsedata
+	shallow = true
+[submodule "xopen"]
+	path = xopen
+	url = https://github.com/r-lib/xopen
+	shallow = true
+[submodule "ymlthis"]
+	path = ymlthis
+	url = https://github.com/r-lib/ymlthis
+	shallow = true
+[submodule "zip"]
+	path = zip
+	url = https://github.com/r-lib/zip
+	shallow = true
+[submodule "svglite"]
+	path = svglite
+	url = https://github.com/r-lib/svglite
+	shallow = true
+[submodule "vdiffr"]
+	path = vdiffr
+	url = https://github.com/r-lib/vdiffr
+	shallow = true
