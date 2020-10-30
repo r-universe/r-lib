@@ -2,18 +2,13 @@
   {
     "package": "gh",
     "url": "https://github.com/r-lib/gh",
-    "via": [
-      "usethis"
-    ],
+    "via": ["usethis"],
     "from": "usethis"
   },
   {
     "package": "gitcreds",
     "url": "https://github.com/r-lib/gitcreds",
-    "via": [
-      "usethis",
-      "gh"
-    ],
+    "via": ["usethis", "gh"],
     "from": "usethis"
   }
 ]
