@@ -326,3 +326,11 @@
 	path = vdiffr
 	url = https://github.com/r-lib/vdiffr
 	shallow = true
+[submodule "gh"]
+	path = gh
+	url = https://github.com/r-lib/gh
+	shallow = true
+[submodule "gitcreds"]
+	path = gitcreds
+	url = https://github.com/r-lib/gitcreds
+	shallow = true
