@@ -150,6 +150,10 @@
 	path = lobstr
 	url = https://github.com/r-lib/lobstr
 	shallow = true
+[submodule "oskeyring"]
+	path = oskeyring
+	url = https://github.com/r-lib/oskeyring
+	shallow = true
 [submodule "pak"]
 	path = pak
 	url = https://github.com/r-lib/pak
