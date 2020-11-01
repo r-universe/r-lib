@@ -330,6 +330,10 @@
 	path = vdiffr
 	url = https://github.com/r-lib/vdiffr
 	shallow = true
+[submodule "distro"]
+	path = distro
+	url = https://github.com/nealrichardson/distro
+	shallow = true
 [submodule "gh"]
 	path = gh
 	url = https://github.com/r-lib/gh
@@ -337,4 +341,12 @@
 [submodule "gitcreds"]
 	path = gitcreds
 	url = https://github.com/r-lib/gitcreds
+	shallow = true
+[submodule "pkgdepends"]
+	path = pkgdepends
+	url = https://github.com/r-lib/pkgdepends
+	shallow = true
+[submodule "ps"]
+	path = ps
+	url = https://github.com/r-lib/ps
 	shallow = true

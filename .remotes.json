@@ -1,8 +1,14 @@
 [
   {
+    "package": "distro",
+    "url": "https://github.com/nealrichardson/distro",
+    "via": ["pak"],
+    "from": "pak"
+  },
+  {
     "package": "gh",
     "url": "https://github.com/r-lib/gh",
-    "via": ["usethis"],
+    "via": "usethis",
     "from": "usethis"
   },
   {
@@ -10,5 +16,17 @@
     "url": "https://github.com/r-lib/gitcreds",
     "via": ["usethis", "gh"],
     "from": "usethis"
+  },
+  {
+    "package": "pkgdepends",
+    "url": "https://github.com/r-lib/pkgdepends",
+    "via": ["pak"],
+    "from": "pak"
+  },
+  {
+    "package": "ps",
+    "url": "https://github.com/r-lib/ps",
+    "via": ["pak"],
+    "from": "pak"
   }
 ]
