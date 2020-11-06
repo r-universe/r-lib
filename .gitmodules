@@ -322,21 +322,9 @@
 	path = zip
 	url = https://github.com/r-lib/zip
 	shallow = true
-[submodule "svglite"]
-	path = svglite
-	url = https://github.com/r-lib/svglite
-	shallow = true
-[submodule "vdiffr"]
-	path = vdiffr
-	url = https://github.com/r-lib/vdiffr
-	shallow = true
 [submodule "distro"]
 	path = distro
 	url = https://github.com/nealrichardson/distro
-	shallow = true
-[submodule "gh"]
-	path = gh
-	url = https://github.com/r-lib/gh
 	shallow = true
 [submodule "gitcreds"]
 	path = gitcreds
@@ -345,8 +333,4 @@
 [submodule "pkgdepends"]
 	path = pkgdepends
 	url = https://github.com/r-lib/pkgdepends
-	shallow = true
-[submodule "ps"]
-	path = ps
-	url = https://github.com/r-lib/ps
 	shallow = true
