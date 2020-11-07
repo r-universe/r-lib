@@ -118,6 +118,10 @@
 	path = gh
 	url = https://github.com/r-lib/gh
 	shallow = true
+[submodule "gitcreds"]
+	path = gitcreds
+	url = https://github.com/r-lib/gitcreds
+	shallow = true
 [submodule "gmailr"]
 	path = gmailr
 	url = https://github.com/r-lib/gmailr
@@ -325,10 +329,6 @@
 [submodule "distro"]
 	path = distro
 	url = https://github.com/nealrichardson/distro
-	shallow = true
-[submodule "gitcreds"]
-	path = gitcreds
-	url = https://github.com/r-lib/gitcreds
 	shallow = true
 [submodule "pkgdepends"]
 	path = pkgdepends
