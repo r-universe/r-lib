@@ -2,331 +2,414 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "backports"]
 	path = backports
 	url = https://github.com/r-lib/backports
 	shallow = true
+	branch = HEAD
 [submodule "bench"]
 	path = bench
 	url = https://github.com/r-lib/bench
 	shallow = true
+	branch = HEAD
 [submodule "brio"]
 	path = brio
 	url = https://github.com/r-lib/brio
 	shallow = true
+	branch = HEAD
 [submodule "callr"]
 	path = callr
 	url = https://github.com/r-lib/callr
 	shallow = true
+	branch = HEAD
 [submodule "carrier"]
 	path = carrier
 	url = https://github.com/r-lib/carrier
 	shallow = true
+	branch = HEAD
 [submodule "cleancall"]
 	path = cleancall
 	url = https://github.com/r-lib/cleancall
 	shallow = true
+	branch = HEAD
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli
 	shallow = true
+	branch = HEAD
 [submodule "cliapp"]
 	path = cliapp
 	url = https://github.com/r-lib/cliapp
 	shallow = true
+	branch = HEAD
 [submodule "conflicted"]
 	path = conflicted
 	url = https://github.com/r-lib/conflicted
 	shallow = true
+	branch = HEAD
 [submodule "covr"]
 	path = covr
 	url = https://github.com/r-lib/covr
 	shallow = true
+	branch = HEAD
 [submodule "cpp11"]
 	path = cpp11
 	url = https://github.com/r-lib/cpp11
 	shallow = true
+	branch = HEAD
 [submodule "crayon"]
 	path = crayon
 	url = https://github.com/r-lib/crayon
 	shallow = true
+	branch = HEAD
 [submodule "credentials"]
 	path = credentials
 	url = https://github.com/r-lib/credentials
 	shallow = true
+	branch = HEAD
 [submodule "debugme"]
 	path = debugme
 	url = https://github.com/r-lib/debugme
 	shallow = true
+	branch = HEAD
 [submodule "decor"]
 	path = decor
 	url = https://github.com/r-lib/decor
 	shallow = true
+	branch = HEAD
 [submodule "desc"]
 	path = desc
 	url = https://github.com/r-lib/desc
 	shallow = true
+	branch = HEAD
 [submodule "devoid"]
 	path = devoid
 	url = https://github.com/r-lib/devoid
 	shallow = true
+	branch = HEAD
 [submodule "devtools"]
 	path = devtools
 	url = https://github.com/r-lib/devtools
 	shallow = true
+	branch = HEAD
 [submodule "diffviewer"]
 	path = diffviewer
 	url = https://github.com/r-lib/diffviewer
 	shallow = true
+	branch = HEAD
 [submodule "downlit"]
 	path = downlit
 	url = https://github.com/r-lib/downlit
 	shallow = true
+	branch = HEAD
 [submodule "ellipsis"]
 	path = ellipsis
 	url = https://github.com/r-lib/ellipsis
 	shallow = true
+	branch = HEAD
 [submodule "evaluate"]
 	path = evaluate
 	url = https://github.com/r-lib/evaluate
 	shallow = true
+	branch = HEAD
 [submodule "fastmap"]
 	path = fastmap
 	url = https://github.com/r-lib/fastmap
 	shallow = true
+	branch = HEAD
 [submodule "filelock"]
 	path = filelock
 	url = https://github.com/r-lib/filelock
 	shallow = true
+	branch = HEAD
 [submodule "fs"]
 	path = fs
 	url = https://github.com/r-lib/fs
 	shallow = true
+	branch = HEAD
 [submodule "gargle"]
 	path = gargle
 	url = https://github.com/r-lib/gargle
 	shallow = true
+	branch = HEAD
 [submodule "generics"]
 	path = generics
 	url = https://github.com/r-lib/generics
 	shallow = true
+	branch = HEAD
 [submodule "gert"]
 	path = gert
 	url = https://github.com/r-lib/gert
 	shallow = true
+	branch = HEAD
 [submodule "gh"]
 	path = gh
 	url = https://github.com/r-lib/gh
 	shallow = true
+	branch = HEAD
 [submodule "gitcreds"]
 	path = gitcreds
 	url = https://github.com/r-lib/gitcreds
 	shallow = true
+	branch = HEAD
 [submodule "gmailr"]
 	path = gmailr
 	url = https://github.com/r-lib/gmailr
 	shallow = true
+	branch = HEAD
 [submodule "gtable"]
 	path = gtable
 	url = https://github.com/r-lib/gtable
 	shallow = true
+	branch = HEAD
 [submodule "httr"]
 	path = httr
 	url = https://github.com/r-lib/httr
 	shallow = true
+	branch = HEAD
 [submodule "keyring"]
 	path = keyring
 	url = https://github.com/r-lib/keyring
 	shallow = true
+	branch = HEAD
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
 	shallow = true
+	branch = HEAD
 [submodule "lifecycle"]
 	path = lifecycle
 	url = https://github.com/r-lib/lifecycle
 	shallow = true
+	branch = HEAD
 [submodule "liteq"]
 	path = liteq
 	url = https://github.com/r-lib/liteq
 	shallow = true
+	branch = HEAD
 [submodule "lobstr"]
 	path = lobstr
 	url = https://github.com/r-lib/lobstr
 	shallow = true
+	branch = HEAD
 [submodule "oskeyring"]
 	path = oskeyring
 	url = https://github.com/r-lib/oskeyring
 	shallow = true
+	branch = HEAD
 [submodule "pak"]
 	path = pak
 	url = https://github.com/r-lib/pak
 	shallow = true
+	branch = HEAD
 [submodule "pillar"]
 	path = pillar
 	url = https://github.com/r-lib/pillar
 	shallow = true
+	branch = HEAD
 [submodule "pingr"]
 	path = pingr
 	url = https://github.com/r-lib/pingr
 	shallow = true
+	branch = HEAD
 [submodule "pkgbuild"]
 	path = pkgbuild
 	url = https://github.com/r-lib/pkgbuild
 	shallow = true
+	branch = HEAD
 [submodule "pkgcache"]
 	path = pkgcache
 	url = https://github.com/r-lib/pkgcache
 	shallow = true
+	branch = HEAD
 [submodule "pkgconfig"]
 	path = pkgconfig
 	url = https://github.com/r-lib/pkgconfig
 	shallow = true
+	branch = HEAD
 [submodule "pkgdown"]
 	path = pkgdown
 	url = https://github.com/r-lib/pkgdown
 	shallow = true
+	branch = HEAD
 [submodule "pkgload"]
 	path = pkgload
 	url = https://github.com/r-lib/pkgload
 	shallow = true
+	branch = HEAD
 [submodule "prettycode"]
 	path = prettycode
 	url = https://github.com/r-lib/prettycode
 	shallow = true
+	branch = HEAD
 [submodule "processx"]
 	path = processx
 	url = https://github.com/r-lib/processx
 	shallow = true
+	branch = HEAD
 [submodule "progress"]
 	path = progress
 	url = https://github.com/r-lib/progress
 	shallow = true
+	branch = HEAD
 [submodule "ps"]
 	path = ps
 	url = https://github.com/r-lib/ps
 	shallow = true
+	branch = HEAD
 [submodule "R6"]
 	path = R6
 	url = https://github.com/r-lib/r6
 	shallow = true
+	branch = HEAD
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/r-lib/ragg
 	shallow = true
+	branch = HEAD
 [submodule "rcmdcheck"]
 	path = rcmdcheck
 	url = https://github.com/r-lib/rcmdcheck
 	shallow = true
+	branch = HEAD
 [submodule "rematch2"]
 	path = rematch2
 	url = https://github.com/r-lib/rematch2
 	shallow = true
+	branch = HEAD
 [submodule "remotes"]
 	path = remotes
 	url = https://github.com/r-lib/remotes
 	shallow = true
+	branch = HEAD
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
 	shallow = true
+	branch = HEAD
 [submodule "roxygen2"]
 	path = roxygen2
 	url = https://github.com/r-lib/roxygen2
 	shallow = true
+	branch = HEAD
 [submodule "roxygen2md"]
 	path = roxygen2md
 	url = https://github.com/r-lib/roxygen2md
 	shallow = true
+	branch = HEAD
 [submodule "scales"]
 	path = scales
 	url = https://github.com/r-lib/scales
 	shallow = true
+	branch = HEAD
 [submodule "sessioninfo"]
 	path = sessioninfo
 	url = https://github.com/r-lib/sessioninfo
 	shallow = true
+	branch = HEAD
 [submodule "showimage"]
 	path = showimage
 	url = https://github.com/r-lib/showimage
 	shallow = true
+	branch = HEAD
 [submodule "sloop"]
 	path = sloop
 	url = https://github.com/r-lib/sloop
 	shallow = true
+	branch = HEAD
 [submodule "styler"]
 	path = styler
 	url = https://github.com/r-lib/styler
 	shallow = true
+	branch = HEAD
 [submodule "svglite"]
 	path = svglite
 	url = https://github.com/r-lib/svglite
 	shallow = true
+	branch = HEAD
 [submodule "systemfonts"]
 	path = systemfonts
 	url = https://github.com/r-lib/systemfonts
 	shallow = true
+	branch = HEAD
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
 	shallow = true
+	branch = HEAD
 [submodule "textshaping"]
 	path = textshaping
 	url = https://github.com/r-lib/textshaping
 	shallow = true
+	branch = HEAD
 [submodule "tidyselect"]
 	path = tidyselect
 	url = https://github.com/r-lib/tidyselect
 	shallow = true
+	branch = HEAD
 [submodule "usethis"]
 	path = usethis
 	url = https://github.com/r-lib/usethis
 	shallow = true
+	branch = HEAD
 [submodule "vctrs"]
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
 	shallow = true
+	branch = HEAD
 [submodule "vdiffr"]
 	path = vdiffr
 	url = https://github.com/r-lib/vdiffr
 	shallow = true
+	branch = HEAD
 [submodule "vroom"]
 	path = vroom
 	url = https://github.com/r-lib/vroom
 	shallow = true
+	branch = HEAD
 [submodule "waldo"]
 	path = waldo
 	url = https://github.com/r-lib/waldo
 	shallow = true
+	branch = HEAD
 [submodule "whoami"]
 	path = whoami
 	url = https://github.com/r-lib/whoami
 	shallow = true
+	branch = HEAD
 [submodule "withr"]
 	path = withr
 	url = https://github.com/r-lib/withr
 	shallow = true
+	branch = HEAD
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
 	shallow = true
+	branch = HEAD
 [submodule "xmlparsedata"]
 	path = xmlparsedata
 	url = https://github.com/r-lib/xmlparsedata
 	shallow = true
+	branch = HEAD
 [submodule "xopen"]
 	path = xopen
 	url = https://github.com/r-lib/xopen
 	shallow = true
+	branch = HEAD
 [submodule "ymlthis"]
 	path = ymlthis
 	url = https://github.com/r-lib/ymlthis
 	shallow = true
+	branch = HEAD
 [submodule "zip"]
 	path = zip
 	url = https://github.com/r-lib/zip
 	shallow = true
+	branch = HEAD
 [submodule "pkgdepends"]
 	path = pkgdepends
 	url = https://github.com/r-lib/pkgdepends
 	shallow = true
+	branch = HEAD
