@@ -131,6 +131,10 @@
 	path = gtable
 	url = https://github.com/r-lib/gtable
 	shallow = true
+[submodule "here"]
+	path = here
+	url = https://github.com/r-lib/here
+	shallow = true
 [submodule "httr"]
 	path = httr
 	url = https://github.com/r-lib/httr
@@ -238,6 +242,10 @@
 [submodule "roxygen2md"]
 	path = roxygen2md
 	url = https://github.com/r-lib/roxygen2md
+	shallow = true
+[submodule "rprojroot"]
+	path = rprojroot
+	url = https://github.com/r-lib/rprojroot
 	shallow = true
 [submodule "scales"]
 	path = scales
