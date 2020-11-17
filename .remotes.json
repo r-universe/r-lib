@@ -30,6 +30,13 @@
     "from": "pak"
   },
   {
+    "package": "rprojroot",
+    "url": "https://github.com/r-lib/rprojroot",
+    "via": ["here"],
+    "branch": "v2.0.2",
+    "from": "here"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["devtools"],
