@@ -37,9 +37,27 @@
     "from": "here"
   },
   {
+    "package": "systemfonts",
+    "url": "https://github.com/r-lib/systemfonts",
+    "via": ["ragg"],
+    "from": "ragg"
+  },
+  {
+    "package": "systemfonts",
+    "url": "https://github.com/r-lib/systemfonts",
+    "via": ["ragg", "textshaping"],
+    "from": "ragg"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["devtools"],
     "from": "devtools"
+  },
+  {
+    "package": "textshaping",
+    "url": "https://github.com/r-lib/textshaping",
+    "via": ["ragg"],
+    "from": "ragg"
   }
 ]
