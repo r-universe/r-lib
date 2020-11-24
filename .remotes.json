@@ -49,6 +49,12 @@
     "from": "ragg"
   },
   {
+    "package": "systemfonts",
+    "url": "https://github.com/r-lib/systemfonts",
+    "via": ["textshaping"],
+    "from": "textshaping"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["devtools"],
