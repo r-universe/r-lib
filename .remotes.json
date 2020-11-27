@@ -8,12 +8,6 @@
   {
     "package": "gitcreds",
     "url": "https://github.com/r-lib/gitcreds",
-    "via": ["gh"],
-    "from": "gh"
-  },
-  {
-    "package": "gitcreds",
-    "url": "https://github.com/r-lib/gitcreds",
     "via": ["usethis", "gh"],
     "from": "usethis"
   },
