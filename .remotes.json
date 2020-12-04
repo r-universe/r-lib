@@ -1,5 +1,11 @@
 [
   {
+    "package": "cpp11",
+    "url": "https://github.com/r-lib/cpp11",
+    "via": ["lobstr"],
+    "from": "lobstr"
+  },
+  {
     "package": "pkgdepends",
     "url": "https://github.com/r-lib/pkgdepends",
     "via": ["pak"],
