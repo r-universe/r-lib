@@ -39,6 +39,10 @@
 	path = conflicted
 	url = https://github.com/r-lib/conflicted
 	shallow = true
+[submodule "coro"]
+	path = coro
+	url = https://github.com/r-lib/coro
+	shallow = true
 [submodule "covr"]
 	path = covr
 	url = https://github.com/r-lib/covr
