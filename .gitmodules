@@ -311,6 +311,10 @@
 	path = waldo
 	url = https://github.com/r-lib/waldo
 	shallow = true
+[submodule "webfakes"]
+	path = webfakes
+	url = https://github.com/r-lib/webfakes
+	shallow = true
 [submodule "whoami"]
 	path = whoami
 	url = https://github.com/r-lib/whoami
@@ -342,8 +346,4 @@
 [submodule "pkgdepends"]
 	path = pkgdepends
 	url = https://github.com/r-lib/pkgdepends
-	shallow = true
-[submodule "webfakes"]
-	path = webfakes
-	url = https://github.com/r-lib/webfakes
 	shallow = true
