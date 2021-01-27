@@ -167,6 +167,10 @@
 	path = lobstr
 	url = https://github.com/r-lib/lobstr
 	shallow = true
+[submodule "memoise"]
+	path = memoise
+	url = https://github.com/r-lib/memoise
+	shallow = true
 [submodule "oskeyring"]
 	path = oskeyring
 	url = https://github.com/r-lib/oskeyring
