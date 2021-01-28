@@ -231,6 +231,10 @@
 	path = ragg
 	url = https://github.com/r-lib/ragg
 	shallow = true
+[submodule "rappdirs"]
+	path = rappdirs
+	url = https://github.com/r-lib/rappdirs
+	shallow = true
 [submodule "rcmdcheck"]
 	path = rcmdcheck
 	url = https://github.com/r-lib/rcmdcheck
