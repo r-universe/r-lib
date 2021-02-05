@@ -1,9 +1,21 @@
 [
   {
+    "package": "cli",
+    "url": "https://github.com/r-lib/cli",
+    "via": ["pak", "pkgdepends"],
+    "from": "pak"
+  },
+  {
     "package": "cpp11",
     "url": "https://github.com/r-lib/cpp11",
     "via": ["lobstr"],
     "from": "lobstr"
+  },
+  {
+    "package": "pkgcache",
+    "url": "https://github.com/r-lib/pkgcache",
+    "via": ["pak", "pkgdepends"],
+    "from": "pak"
   },
   {
     "package": "pkgdepends",
@@ -40,6 +52,12 @@
     "url": "https://github.com/r-lib/textshaping",
     "via": ["ragg"],
     "from": "ragg"
+  },
+  {
+    "package": "webfakes",
+    "url": "https://github.com/r-lib/webfakes",
+    "via": ["pak", "pkgdepends", "pkgcache"],
+    "from": "pak"
   },
   {
     "package": "webfakes",
