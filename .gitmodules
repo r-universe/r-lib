@@ -3,6 +3,10 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "available"]
+	path = available
+	url = https://github.com/r-lib/available
+	shallow = true
 [submodule "backports"]
 	path = backports
 	url = https://github.com/r-lib/backports
@@ -38,6 +42,10 @@
 [submodule "cliapp"]
 	path = cliapp
 	url = https://github.com/r-lib/cliapp
+	shallow = true
+[submodule "clisymbols"]
+	path = clisymbols
+	url = https://github.com/r-lib/clisymbols
 	shallow = true
 [submodule "conflicted"]
 	path = conflicted
@@ -171,6 +179,10 @@
 	path = memoise
 	url = https://github.com/r-lib/memoise
 	shallow = true
+[submodule "mockery"]
+	path = mockery
+	url = https://github.com/r-lib/mockery
+	shallow = true
 [submodule "oskeyring"]
 	path = oskeyring
 	url = https://github.com/r-lib/oskeyring
@@ -207,9 +219,17 @@
 	path = pkgload
 	url = https://github.com/r-lib/pkgload
 	shallow = true
+[submodule "presser"]
+	path = presser
+	url = https://github.com/r-lib/webfakes
+	shallow = true
 [submodule "prettycode"]
 	path = prettycode
 	url = https://github.com/r-lib/prettycode
+	shallow = true
+[submodule "prettyunits"]
+	path = prettyunits
+	url = https://github.com/r-lib/prettyunits
 	shallow = true
 [submodule "processx"]
 	path = processx
@@ -262,6 +282,10 @@
 [submodule "rprojroot"]
 	path = rprojroot
 	url = https://github.com/r-lib/rprojroot
+	shallow = true
+[submodule "RSvgDevice"]
+	path = RSvgDevice
+	url = https://github.com/r-lib/svglite
 	shallow = true
 [submodule "scales"]
 	path = scales
@@ -350,6 +374,10 @@
 [submodule "ymlthis"]
 	path = ymlthis
 	url = https://github.com/r-lib/ymlthis
+	shallow = true
+[submodule "zeallot"]
+	path = zeallot
+	url = https://github.com/r-lib/zeallot
 	shallow = true
 [submodule "zip"]
 	path = zip
