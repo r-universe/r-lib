@@ -18,6 +18,12 @@
     "from": "pak"
   },
   {
+    "package": "pkgcache",
+    "url": "https://github.com/r-lib/pkgcache",
+    "via": ["pak"],
+    "from": "pak"
+  },
+  {
     "package": "pkgdepends",
     "url": "https://github.com/r-lib/pkgdepends",
     "via": ["pak"],
@@ -51,6 +57,12 @@
     "package": "webfakes",
     "url": "https://github.com/r-lib/webfakes",
     "via": ["pak", "pkgdepends", "pkgcache"],
+    "from": "pak"
+  },
+  {
+    "package": "webfakes",
+    "url": "https://github.com/r-lib/webfakes",
+    "via": ["pak", "pkgcache"],
     "from": "pak"
   },
   {
