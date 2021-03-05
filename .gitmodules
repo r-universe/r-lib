@@ -327,6 +327,14 @@
 	path = tidyselect
 	url = https://github.com/r-lib/tidyselect
 	shallow = true
+[submodule "tzdb"]
+	path = tzdb
+	url = https://github.com/r-lib/tzdb
+	shallow = true
+[submodule "urlchecker"]
+	path = urlchecker
+	url = https://github.com/r-lib/urlchecker
+	shallow = true
 [submodule "usethis"]
 	path = usethis
 	url = https://github.com/r-lib/usethis
