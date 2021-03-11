@@ -12,6 +12,12 @@
     "from": "pak"
   },
   {
+    "package": "processx",
+    "url": "https://github.com/r-lib/processx",
+    "via": ["callr"],
+    "from": "callr"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["devtools"],
