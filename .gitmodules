@@ -47,6 +47,10 @@
 	path = clisymbols
 	url = https://github.com/r-lib/clisymbols
 	shallow = true
+[submodule "commonmark"]
+	path = commonmark
+	url = https://github.com/r-lib/commonmark
+	shallow = true
 [submodule "conflicted"]
 	path = conflicted
 	url = https://github.com/r-lib/conflicted
