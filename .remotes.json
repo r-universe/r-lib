@@ -12,6 +12,12 @@
     "from": "lobstr"
   },
   {
+    "package": "downlit",
+    "url": "https://github.com/r-lib/downlit",
+    "via": ["pkgdown"],
+    "from": "pkgdown"
+  },
+  {
     "package": "pkgdepends",
     "url": "https://github.com/r-lib/pkgdepends",
     "via": ["pak"],
