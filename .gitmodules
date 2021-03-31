@@ -47,6 +47,10 @@
 	path = clisymbols
 	url = https://github.com/r-lib/clisymbols
 	shallow = true
+[submodule "clock"]
+	path = clock
+	url = https://github.com/r-lib/clock
+	shallow = true
 [submodule "commonmark"]
 	path = commonmark
 	url = https://github.com/r-lib/commonmark
