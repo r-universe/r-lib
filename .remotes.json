@@ -24,8 +24,8 @@
     "from": "pillar"
   },
   {
-    "package": "pkgdepends",
-    "url": "https://github.com/r-lib/pkgdepends",
+    "package": "processx",
+    "url": "https://github.com/r-lib/processx",
     "via": ["pak"],
     "from": "pak"
   },
