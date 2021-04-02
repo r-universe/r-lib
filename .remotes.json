@@ -1,11 +1,5 @@
 [
   {
-    "package": "cli",
-    "url": "https://github.com/r-lib/cli",
-    "via": ["gargle"],
-    "from": "gargle"
-  },
-  {
     "package": "cpp11",
     "url": "https://github.com/r-lib/cpp11",
     "via": ["lobstr"],
