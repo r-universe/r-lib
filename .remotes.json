@@ -30,12 +30,6 @@
     "from": "vctrs"
   },
   {
-    "package": "testthat",
-    "url": "https://github.com/r-lib/testthat",
-    "via": ["devtools"],
-    "from": "devtools"
-  },
-  {
     "package": "units",
     "url": "https://github.com/r-quantities/units",
     "via": ["pillar"],
