@@ -24,6 +24,12 @@
     "from": "pillar"
   },
   {
+    "package": "pkgdepends",
+    "url": "https://github.com/r-lib/pkgdepends",
+    "via": ["pak"],
+    "from": "pak"
+  },
+  {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
     "via": ["vctrs"],
