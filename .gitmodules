@@ -8,616 +8,513 @@
 	url = https://github.com/r-lib/askpass
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "available"]
 	path = available
 	url = https://github.com/r-lib/available
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "backports"]
 	path = backports
 	url = https://github.com/r-lib/backports
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "bench"]
 	path = bench
 	url = https://github.com/r-lib/bench
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "brio"]
 	path = brio
 	url = https://github.com/r-lib/brio
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "cachem"]
 	path = cachem
 	url = https://github.com/r-lib/cachem
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "callr"]
 	path = callr
 	url = https://github.com/r-lib/callr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "carrier"]
 	path = carrier
 	url = https://github.com/r-lib/carrier
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "cleancall"]
 	path = cleancall
 	url = https://github.com/r-lib/cleancall
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "cliapp"]
 	path = cliapp
 	url = https://github.com/r-lib/cliapp
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "clisymbols"]
 	path = clisymbols
 	url = https://github.com/r-lib/clisymbols
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "clock"]
 	path = clock
 	url = https://github.com/r-lib/clock
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "commonmark"]
 	path = commonmark
 	url = https://github.com/r-lib/commonmark
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "conflicted"]
 	path = conflicted
 	url = https://github.com/r-lib/conflicted
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "coro"]
 	path = coro
 	url = https://github.com/r-lib/coro
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "covr"]
 	path = covr
 	url = https://github.com/r-lib/covr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "cpp11"]
 	path = cpp11
 	url = https://github.com/r-lib/cpp11
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "crayon"]
 	path = crayon
 	url = https://github.com/r-lib/crayon
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "credentials"]
 	path = credentials
 	url = https://github.com/r-lib/credentials
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "debugme"]
 	path = debugme
 	url = https://github.com/r-lib/debugme
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "decor"]
 	path = decor
 	url = https://github.com/r-lib/decor
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "desc"]
 	path = desc
 	url = https://github.com/r-lib/desc
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "devoid"]
 	path = devoid
 	url = https://github.com/r-lib/devoid
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "devtools"]
 	path = devtools
 	url = https://github.com/r-lib/devtools
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "diffviewer"]
 	path = diffviewer
 	url = https://github.com/r-lib/diffviewer
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "downlit"]
 	path = downlit
 	url = https://github.com/r-lib/downlit
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ellipsis"]
 	path = ellipsis
 	url = https://github.com/r-lib/ellipsis
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "evaluate"]
 	path = evaluate
 	url = https://github.com/r-lib/evaluate
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "fastmap"]
 	path = fastmap
 	url = https://github.com/r-lib/fastmap
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "filelock"]
 	path = filelock
 	url = https://github.com/r-lib/filelock
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "fs"]
 	path = fs
 	url = https://github.com/r-lib/fs
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gargle"]
 	path = gargle
 	url = https://github.com/r-lib/gargle
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "generics"]
 	path = generics
 	url = https://github.com/r-lib/generics
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gert"]
 	path = gert
 	url = https://github.com/r-lib/gert
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gh"]
 	path = gh
 	url = https://github.com/r-lib/gh
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gitcreds"]
 	path = gitcreds
 	url = https://github.com/r-lib/gitcreds
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gmailr"]
 	path = gmailr
 	url = https://github.com/r-lib/gmailr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gtable"]
 	path = gtable
 	url = https://github.com/r-lib/gtable
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "here"]
 	path = here
 	url = https://github.com/r-lib/here
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "httr"]
 	path = httr
 	url = https://github.com/r-lib/httr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "keyring"]
 	path = keyring
 	url = https://github.com/r-lib/keyring
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "lifecycle"]
 	path = lifecycle
 	url = https://github.com/r-lib/lifecycle
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "liteq"]
 	path = liteq
 	url = https://github.com/r-lib/liteq
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "lobstr"]
 	path = lobstr
 	url = https://github.com/r-lib/lobstr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "memoise"]
 	path = memoise
 	url = https://github.com/r-lib/memoise
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "mockery"]
 	path = mockery
 	url = https://github.com/r-lib/mockery
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "oskeyring"]
 	path = oskeyring
 	url = https://github.com/r-lib/oskeyring
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pak"]
 	path = pak
 	url = https://github.com/r-lib/pak
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pillar"]
 	path = pillar
 	url = https://github.com/r-lib/pillar
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pingr"]
 	path = pingr
 	url = https://github.com/r-lib/pingr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pkgbuild"]
 	path = pkgbuild
 	url = https://github.com/r-lib/pkgbuild
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pkgcache"]
 	path = pkgcache
 	url = https://github.com/r-lib/pkgcache
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pkgconfig"]
 	path = pkgconfig
 	url = https://github.com/r-lib/pkgconfig
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pkgdepends"]
 	path = pkgdepends
 	url = https://github.com/r-lib/pkgdepends
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pkgdown"]
 	path = pkgdown
 	url = https://github.com/r-lib/pkgdown
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pkgload"]
 	path = pkgload
 	url = https://github.com/r-lib/pkgload
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "presser"]
 	path = presser
 	url = https://github.com/r-lib/webfakes
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "prettycode"]
 	path = prettycode
 	url = https://github.com/r-lib/prettycode
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "prettyunits"]
 	path = prettyunits
 	url = https://github.com/r-lib/prettyunits
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "processx"]
 	path = processx
 	url = https://github.com/r-lib/processx
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "progress"]
 	path = progress
 	url = https://github.com/r-lib/progress
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ps"]
 	path = ps
 	url = https://github.com/r-lib/ps
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "R6"]
 	path = R6
 	url = https://github.com/r-lib/r6
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/r-lib/ragg
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rappdirs"]
 	path = rappdirs
 	url = https://github.com/r-lib/rappdirs
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rcmdcheck"]
 	path = rcmdcheck
 	url = https://github.com/r-lib/rcmdcheck
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rematch2"]
 	path = rematch2
 	url = https://github.com/r-lib/rematch2
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "remotes"]
 	path = remotes
 	url = https://github.com/r-lib/remotes
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "roxygen2"]
 	path = roxygen2
 	url = https://github.com/r-lib/roxygen2
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "roxygen2md"]
 	path = roxygen2md
 	url = https://github.com/r-lib/roxygen2md
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rprojroot"]
 	path = rprojroot
 	url = https://github.com/r-lib/rprojroot
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RSvgDevice"]
 	path = RSvgDevice
 	url = https://github.com/r-lib/svglite
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "scales"]
 	path = scales
 	url = https://github.com/r-lib/scales
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "sessioninfo"]
 	path = sessioninfo
 	url = https://github.com/r-lib/sessioninfo
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "showimage"]
 	path = showimage
 	url = https://github.com/r-lib/showimage
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "sloop"]
 	path = sloop
 	url = https://github.com/r-lib/sloop
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "styler"]
 	path = styler
 	url = https://github.com/r-lib/styler
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "svglite"]
 	path = svglite
 	url = https://github.com/r-lib/svglite
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "systemfonts"]
 	path = systemfonts
 	url = https://github.com/r-lib/systemfonts
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "textshaping"]
 	path = textshaping
 	url = https://github.com/r-lib/textshaping
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "tidyselect"]
 	path = tidyselect
 	url = https://github.com/r-lib/tidyselect
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "tzdb"]
 	path = tzdb
 	url = https://github.com/r-lib/tzdb
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "urlchecker"]
 	path = urlchecker
 	url = https://github.com/r-lib/urlchecker
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "usethis"]
 	path = usethis
 	url = https://github.com/r-lib/usethis
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "vctrs"]
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "vdiffr"]
 	path = vdiffr
 	url = https://github.com/r-lib/vdiffr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "vroom"]
 	path = vroom
 	url = https://github.com/r-lib/vroom
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "waldo"]
 	path = waldo
 	url = https://github.com/r-lib/waldo
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "webfakes"]
 	path = webfakes
 	url = https://github.com/r-lib/webfakes
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "whoami"]
 	path = whoami
 	url = https://github.com/r-lib/whoami
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "withr"]
 	path = withr
 	url = https://github.com/r-lib/withr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "xmlparsedata"]
 	path = xmlparsedata
 	url = https://github.com/r-lib/xmlparsedata
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "xopen"]
 	path = xopen
 	url = https://github.com/r-lib/xopen
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ymlthis"]
 	path = ymlthis
 	url = https://github.com/r-lib/ymlthis
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "zeallot"]
 	path = zeallot
 	url = https://github.com/r-lib/zeallot
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "zip"]
 	path = zip
 	url = https://github.com/r-lib/zip
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "formattable"]
 	path = formattable
 	url = https://github.com/renkun-ken/formattable
 	shallow = true
 	registered = false
-	oncran = true
 [submodule "units"]
 	path = units
 	url = https://github.com/r-quantities/units
 	shallow = true
 	registered = false
-	oncran = true

@@ -1,0 +1,406 @@
+[
+  {
+    "package": "askpass",
+    "oncran": true
+  },
+  {
+    "package": "available",
+    "oncran": true
+  },
+  {
+    "package": "backports",
+    "oncran": true
+  },
+  {
+    "package": "bench",
+    "oncran": true
+  },
+  {
+    "package": "brio",
+    "oncran": true
+  },
+  {
+    "package": "cachem",
+    "oncran": true
+  },
+  {
+    "package": "callr",
+    "oncran": true
+  },
+  {
+    "package": "carrier",
+    "oncran": true
+  },
+  {
+    "package": "cleancall",
+    "oncran": true
+  },
+  {
+    "package": "cli",
+    "oncran": true
+  },
+  {
+    "package": "cliapp",
+    "oncran": true
+  },
+  {
+    "package": "clisymbols",
+    "oncran": true
+  },
+  {
+    "package": "clock",
+    "oncran": true
+  },
+  {
+    "package": "commonmark",
+    "oncran": true
+  },
+  {
+    "package": "conflicted",
+    "oncran": true
+  },
+  {
+    "package": "coro",
+    "oncran": true
+  },
+  {
+    "package": "covr",
+    "oncran": true
+  },
+  {
+    "package": "cpp11",
+    "oncran": true
+  },
+  {
+    "package": "crayon",
+    "oncran": true
+  },
+  {
+    "package": "credentials",
+    "oncran": true
+  },
+  {
+    "package": "debugme",
+    "oncran": true
+  },
+  {
+    "package": "decor",
+    "oncran": true
+  },
+  {
+    "package": "desc",
+    "oncran": true
+  },
+  {
+    "package": "devoid",
+    "oncran": true
+  },
+  {
+    "package": "devtools",
+    "oncran": true
+  },
+  {
+    "package": "diffviewer",
+    "oncran": true
+  },
+  {
+    "package": "downlit",
+    "oncran": true
+  },
+  {
+    "package": "ellipsis",
+    "oncran": true
+  },
+  {
+    "package": "evaluate",
+    "oncran": true
+  },
+  {
+    "package": "fastmap",
+    "oncran": true
+  },
+  {
+    "package": "filelock",
+    "oncran": true
+  },
+  {
+    "package": "fs",
+    "oncran": true
+  },
+  {
+    "package": "gargle",
+    "oncran": true
+  },
+  {
+    "package": "generics",
+    "oncran": true
+  },
+  {
+    "package": "gert",
+    "oncran": true
+  },
+  {
+    "package": "gh",
+    "oncran": true
+  },
+  {
+    "package": "gitcreds",
+    "oncran": true
+  },
+  {
+    "package": "gmailr",
+    "oncran": true
+  },
+  {
+    "package": "gtable",
+    "oncran": true
+  },
+  {
+    "package": "here",
+    "oncran": true
+  },
+  {
+    "package": "httr",
+    "oncran": true
+  },
+  {
+    "package": "keyring",
+    "oncran": true
+  },
+  {
+    "package": "later",
+    "oncran": true
+  },
+  {
+    "package": "lifecycle",
+    "oncran": true
+  },
+  {
+    "package": "liteq",
+    "oncran": true
+  },
+  {
+    "package": "lobstr",
+    "oncran": true
+  },
+  {
+    "package": "memoise",
+    "oncran": true
+  },
+  {
+    "package": "mockery",
+    "oncran": true
+  },
+  {
+    "package": "oskeyring",
+    "oncran": true
+  },
+  {
+    "package": "pak",
+    "oncran": true
+  },
+  {
+    "package": "pillar",
+    "oncran": true
+  },
+  {
+    "package": "pingr",
+    "oncran": true
+  },
+  {
+    "package": "pkgbuild",
+    "oncran": true
+  },
+  {
+    "package": "pkgcache",
+    "oncran": true
+  },
+  {
+    "package": "pkgconfig",
+    "oncran": true
+  },
+  {
+    "package": "pkgdepends",
+    "oncran": true
+  },
+  {
+    "package": "pkgdown",
+    "oncran": true
+  },
+  {
+    "package": "pkgload",
+    "oncran": true
+  },
+  {
+    "package": "presser",
+    "oncran": true
+  },
+  {
+    "package": "prettycode",
+    "oncran": true
+  },
+  {
+    "package": "prettyunits",
+    "oncran": true
+  },
+  {
+    "package": "processx",
+    "oncran": true
+  },
+  {
+    "package": "progress",
+    "oncran": true
+  },
+  {
+    "package": "ps",
+    "oncran": true
+  },
+  {
+    "package": "R6",
+    "oncran": true
+  },
+  {
+    "package": "ragg",
+    "oncran": true
+  },
+  {
+    "package": "rappdirs",
+    "oncran": true
+  },
+  {
+    "package": "rcmdcheck",
+    "oncran": true
+  },
+  {
+    "package": "rematch2",
+    "oncran": true
+  },
+  {
+    "package": "remotes",
+    "oncran": true
+  },
+  {
+    "package": "rlang",
+    "oncran": true
+  },
+  {
+    "package": "roxygen2",
+    "oncran": true
+  },
+  {
+    "package": "roxygen2md",
+    "oncran": true
+  },
+  {
+    "package": "rprojroot",
+    "oncran": true
+  },
+  {
+    "package": "RSvgDevice",
+    "oncran": true
+  },
+  {
+    "package": "scales",
+    "oncran": true
+  },
+  {
+    "package": "sessioninfo",
+    "oncran": true
+  },
+  {
+    "package": "showimage",
+    "oncran": true
+  },
+  {
+    "package": "sloop",
+    "oncran": true
+  },
+  {
+    "package": "styler",
+    "oncran": true
+  },
+  {
+    "package": "svglite",
+    "oncran": true
+  },
+  {
+    "package": "systemfonts",
+    "oncran": true
+  },
+  {
+    "package": "testthat",
+    "oncran": true
+  },
+  {
+    "package": "textshaping",
+    "oncran": true
+  },
+  {
+    "package": "tidyselect",
+    "oncran": true
+  },
+  {
+    "package": "tzdb",
+    "oncran": true
+  },
+  {
+    "package": "urlchecker",
+    "oncran": true
+  },
+  {
+    "package": "usethis",
+    "oncran": true
+  },
+  {
+    "package": "vctrs",
+    "oncran": true
+  },
+  {
+    "package": "vdiffr",
+    "oncran": true
+  },
+  {
+    "package": "vroom",
+    "oncran": true
+  },
+  {
+    "package": "waldo",
+    "oncran": true
+  },
+  {
+    "package": "webfakes",
+    "oncran": true
+  },
+  {
+    "package": "whoami",
+    "oncran": true
+  },
+  {
+    "package": "withr",
+    "oncran": true
+  },
+  {
+    "package": "xml2",
+    "oncran": true
+  },
+  {
+    "package": "xmlparsedata",
+    "oncran": true
+  },
+  {
+    "package": "xopen",
+    "oncran": true
+  },
+  {
+    "package": "ymlthis",
+    "oncran": true
+  },
+  {
+    "package": "zeallot",
+    "oncran": true
+  },
+  {
+    "package": "zip",
+    "oncran": true
+  }
+]
