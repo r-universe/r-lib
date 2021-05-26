@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "available",
-    "oncran": true
-  },
-  {
     "package": "backports",
     "oncran": true
   },
