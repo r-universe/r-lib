@@ -8,6 +8,11 @@
 	url = https://github.com/r-lib/askpass
 	shallow = true
 	registered = true
+[submodule "available"]
+	path = available
+	url = https://github.com/r-lib/available
+	shallow = true
+	registered = true
 [submodule "backports"]
 	path = backports
 	url = https://github.com/r-lib/backports
