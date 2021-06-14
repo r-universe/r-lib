@@ -208,6 +208,11 @@
 	url = https://github.com/r-lib/httr
 	shallow = true
 	registered = true
+[submodule "jose"]
+	path = jose
+	url = https://github.com/r-lib/jose
+	shallow = true
+	registered = true
 [submodule "keyring"]
 	path = keyring
 	url = https://github.com/r-lib/keyring
