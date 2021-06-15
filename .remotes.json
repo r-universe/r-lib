@@ -42,6 +42,12 @@
     "from": "vctrs"
   },
   {
+    "package": "testthat",
+    "url": "https://github.com/r-lib/testthat",
+    "via": ["vdiffr"],
+    "from": "vdiffr"
+  },
+  {
     "package": "units",
     "url": "https://github.com/r-quantities/units",
     "via": ["pillar"],
