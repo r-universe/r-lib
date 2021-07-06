@@ -6,12 +6,6 @@
     "from": "vroom"
   },
   {
-    "package": "cli",
-    "url": "https://github.com/r-lib/cli",
-    "via": ["pak"],
-    "from": "pak"
-  },
-  {
     "package": "cpp11",
     "url": "https://github.com/r-lib/cpp11",
     "via": ["lobstr"],
@@ -28,12 +22,6 @@
     "url": "https://github.com/renkun-ken/formattable",
     "via": ["pillar"],
     "from": "pillar"
-  },
-  {
-    "package": "pkgdepends",
-    "url": "https://github.com/r-lib/pkgdepends",
-    "via": ["pak"],
-    "from": "pak"
   },
   {
     "package": "rlang",
