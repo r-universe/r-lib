@@ -523,8 +523,3 @@
 	url = https://github.com/renkun-ken/formattable
 	shallow = true
 	registered = false
-[submodule "units"]
-	path = units
-	url = https://github.com/r-quantities/units
-	shallow = true
-	registered = false
