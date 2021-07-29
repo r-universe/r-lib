@@ -12,12 +12,6 @@
     "from": "pkgdown"
   },
   {
-    "package": "formattable",
-    "url": "https://github.com/renkun-ken/formattable",
-    "via": ["pillar"],
-    "from": "pillar"
-  },
-  {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
     "via": ["vctrs"],
