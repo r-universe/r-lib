@@ -304,8 +304,7 @@
     "oncran": true
   },
   {
-    "package": "RSvgDevice",
-    "oncran": true
+    "package": "RSvgDevice"
   },
   {
     "package": "scales",
