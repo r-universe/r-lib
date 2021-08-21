@@ -383,11 +383,6 @@
 	url = https://github.com/r-lib/rprojroot
 	shallow = true
 	registered = true
-[submodule "RSvgDevice"]
-	path = RSvgDevice
-	url = https://github.com/r-lib/svglite
-	shallow = true
-	registered = true
 [submodule "scales"]
 	path = scales
 	url = https://github.com/r-lib/scales
