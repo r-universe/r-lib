@@ -192,6 +192,10 @@
     "oncran": true
   },
   {
+    "package": "meltr",
+    "oncran": true
+  },
+  {
     "package": "memoise",
     "oncran": true
   },
