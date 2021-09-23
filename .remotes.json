@@ -6,12 +6,6 @@
     "from": "pak"
   },
   {
-    "package": "cli",
-    "url": "https://github.com/r-lib/cli",
-    "via": ["rcmdcheck"],
-    "from": "rcmdcheck"
-  },
-  {
     "package": "cpp11",
     "url": "https://github.com/r-lib/cpp11",
     "via": ["lobstr"],
