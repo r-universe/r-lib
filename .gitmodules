@@ -213,6 +213,11 @@
 	url = https://github.com/r-lib/httr
 	shallow = true
 	registered = true
+[submodule "httr2"]
+	path = httr2
+	url = https://github.com/r-lib/httr2
+	shallow = true
+	registered = true
 [submodule "jose"]
 	path = jose
 	url = https://github.com/r-lib/jose

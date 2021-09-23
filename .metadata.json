@@ -168,6 +168,10 @@
     "oncran": true
   },
   {
+    "package": "httr2",
+    "oncran": true
+  },
+  {
     "package": "jose",
     "oncran": true
   },
