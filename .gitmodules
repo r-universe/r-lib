@@ -313,6 +313,11 @@
 	url = https://github.com/r-lib/pkgload
 	shallow = true
 	registered = true
+[submodule "presser"]
+	path = presser
+	url = https://github.com/r-lib/webfakes
+	shallow = true
+	registered = true
 [submodule "prettycode"]
 	path = prettycode
 	url = https://github.com/r-lib/prettycode
