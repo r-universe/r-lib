@@ -248,10 +248,6 @@
     "oncran": true
   },
   {
-    "package": "presser",
-    "oncran": true
-  },
-  {
     "package": "prettycode",
     "oncran": true
   },
