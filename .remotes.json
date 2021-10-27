@@ -26,6 +26,18 @@
   {
     "package": "pkgcache",
     "url": "https://github.com/r-lib/pkgcache",
+    "via": ["pak"],
+    "from": "pak"
+  },
+  {
+    "package": "pkgcache",
+    "url": "https://github.com/r-lib/pkgcache",
+    "via": ["pak"],
+    "from": "pak"
+  },
+  {
+    "package": "pkgcache",
+    "url": "https://github.com/r-lib/pkgcache",
     "via": ["pkgdepends"],
     "from": "pkgdepends"
   },
