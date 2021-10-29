@@ -18,12 +18,6 @@
     "from": "lobstr"
   },
   {
-    "package": "downlit",
-    "url": "https://github.com/r-lib/downlit",
-    "via": ["pkgdown"],
-    "from": "pkgdown"
-  },
-  {
     "package": "pkgcache",
     "url": "https://github.com/r-lib/pkgcache",
     "via": ["pak"],
