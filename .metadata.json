@@ -188,6 +188,10 @@
     "oncran": true
   },
   {
+    "package": "lintr",
+    "oncran": true
+  },
+  {
     "package": "liteq",
     "oncran": true
   },
