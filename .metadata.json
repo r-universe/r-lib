@@ -60,10 +60,6 @@
     "oncran": true
   },
   {
-    "package": "conflicted",
-    "oncran": true
-  },
-  {
     "package": "coro",
     "oncran": true
   },
@@ -180,15 +176,7 @@
     "oncran": true
   },
   {
-    "package": "later",
-    "oncran": true
-  },
-  {
     "package": "lifecycle",
-    "oncran": true
-  },
-  {
-    "package": "lintr",
     "oncran": true
   },
   {
@@ -293,6 +281,10 @@
   },
   {
     "package": "remotes",
+    "oncran": true
+  },
+  {
+    "package": "rex",
     "oncran": true
   },
   {

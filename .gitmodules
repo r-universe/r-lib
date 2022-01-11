@@ -78,11 +78,6 @@
 	url = https://github.com/r-lib/commonmark
 	shallow = true
 	registered = true
-[submodule "conflicted"]
-	path = conflicted
-	url = https://github.com/r-lib/conflicted
-	shallow = true
-	registered = true
 [submodule "coro"]
 	path = coro
 	url = https://github.com/r-lib/coro
@@ -228,19 +223,9 @@
 	url = https://github.com/r-lib/keyring
 	shallow = true
 	registered = true
-[submodule "later"]
-	path = later
-	url = https://github.com/r-lib/later
-	shallow = true
-	registered = true
 [submodule "lifecycle"]
 	path = lifecycle
 	url = https://github.com/r-lib/lifecycle
-	shallow = true
-	registered = true
-[submodule "lintr"]
-	path = lintr
-	url = https://github.com/r-lib/lintr
 	shallow = true
 	registered = true
 [submodule "liteq"]
@@ -371,6 +356,11 @@
 [submodule "remotes"]
 	path = remotes
 	url = https://github.com/r-lib/remotes
+	shallow = true
+	registered = true
+[submodule "rex"]
+	path = rex
+	url = https://github.com/r-lib/rex
 	shallow = true
 	registered = true
 [submodule "rlang"]
