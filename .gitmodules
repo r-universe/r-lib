@@ -528,3 +528,8 @@
 	url = https://github.com/r-lib/zip
 	shallow = true
 	registered = true
+[submodule "jsonlite"]
+	path = jsonlite
+	url = https://github.com/jeroen/jsonlite
+	shallow = true
+	registered = false
