@@ -28,12 +28,5 @@
     "url": "https://github.com/r-lib/rlang",
     "via": ["vctrs"],
     "from": "vctrs"
-  },
-  {
-    "package": "testthat",
-    "url": "https://github.com/r-lib/testthat",
-    "via": ["cli"],
-    "branch": "fix/snapshot-empty-lines",
-    "from": "cli"
   }
 ]
