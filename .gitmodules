@@ -528,8 +528,13 @@
 	url = https://github.com/r-lib/zip
 	shallow = true
 	registered = true
-[submodule "jsonlite"]
-	path = jsonlite
-	url = https://github.com/jeroen/jsonlite
+[submodule "parsedate"]
+	path = parsedate
+	url = https://github.com/gaborcsardi/parsedate
+	shallow = true
+	registered = false
+[submodule "pkgsearch"]
+	path = pkgsearch
+	url = https://github.com/r-hub/pkgsearch
 	shallow = true
 	registered = false
