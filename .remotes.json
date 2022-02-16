@@ -1,11 +1,5 @@
 [
   {
-    "package": "cli",
-    "url": "https://github.com/r-lib/cli",
-    "via": ["pkgdepends", "pkgcache"],
-    "from": "pkgdepends"
-  },
-  {
     "package": "cpp11",
     "url": "https://github.com/r-lib/cpp11",
     "via": ["lobstr"],
@@ -28,12 +22,6 @@
     "url": "https://github.com/r-lib/pkgcache",
     "via": ["pak"],
     "from": "pak"
-  },
-  {
-    "package": "pkgcache",
-    "url": "https://github.com/r-lib/pkgcache",
-    "via": ["pkgdepends"],
-    "from": "pkgdepends"
   },
   {
     "package": "pkgdepends",
