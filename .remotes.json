@@ -2,12 +2,6 @@
   {
     "package": "cli",
     "url": "https://github.com/r-lib/cli",
-    "via": ["pkgcache"],
-    "from": "pkgcache"
-  },
-  {
-    "package": "cli",
-    "url": "https://github.com/r-lib/cli",
     "via": ["pkgdepends", "pkgcache"],
     "from": "pkgdepends"
   },
