@@ -6,12 +6,6 @@
     "from": "lobstr"
   },
   {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["testthat"],
-    "from": "testthat"
-  },
-  {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
     "via": ["tidyselect"],
