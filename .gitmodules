@@ -528,8 +528,3 @@
 	url = https://github.com/r-lib/zip
 	shallow = true
 	registered = true
-[submodule "pkgsearch"]
-	path = pkgsearch
-	url = https://github.com/r-hub/pkgsearch
-	shallow = true
-	registered = false
