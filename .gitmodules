@@ -528,11 +528,6 @@
 	url = https://github.com/r-lib/zip
 	shallow = true
 	registered = true
-[submodule "parsedate"]
-	path = parsedate
-	url = https://github.com/gaborcsardi/parsedate
-	shallow = true
-	registered = false
 [submodule "pkgsearch"]
 	path = pkgsearch
 	url = https://github.com/r-hub/pkgsearch
