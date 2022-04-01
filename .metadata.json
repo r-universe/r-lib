@@ -376,10 +376,6 @@
     "oncran": true
   },
   {
-    "package": "vroom",
-    "oncran": true
-  },
-  {
     "package": "waldo",
     "oncran": true
   },
