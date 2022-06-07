@@ -12,6 +12,12 @@
     "from": "gitcreds"
   },
   {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
+    "via": ["pkgload"],
+    "from": "pkgload"
+  },
+  {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
     "via": ["tidyselect"],
