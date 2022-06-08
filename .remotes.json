@@ -24,6 +24,12 @@
     "from": "pkgload"
   },
   {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
+    "via": ["vctrs"],
+    "from": "vctrs"
+  },
+  {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
     "via": ["tidyselect"],
