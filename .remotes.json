@@ -1,5 +1,11 @@
 [
   {
+    "package": "callr",
+    "url": "https://github.com/r-lib/callr",
+    "via": ["pak"],
+    "from": "pak"
+  },
+  {
     "package": "cpp11",
     "url": "https://github.com/r-lib/cpp11",
     "via": ["lobstr"],
@@ -16,6 +22,18 @@
     "url": "https://github.com/r-lib/processx",
     "via": ["callr"],
     "from": "callr"
+  },
+  {
+    "package": "processx",
+    "url": "https://github.com/r-lib/processx",
+    "via": ["pak", "callr"],
+    "from": "pak"
+  },
+  {
+    "package": "processx",
+    "url": "https://github.com/r-lib/processx",
+    "via": ["pak"],
+    "from": "pak"
   },
   {
     "package": "rlang",
