@@ -418,6 +418,11 @@
 	url = https://github.com/r-lib/sloop
 	shallow = true
 	registered = true
+[submodule "sodium"]
+	path = sodium
+	url = https://github.com/r-lib/sodium
+	shallow = true
+	registered = true
 [submodule "styler"]
 	path = styler
 	url = https://github.com/r-lib/styler
