@@ -6,12 +6,6 @@
     "from": "pak"
   },
   {
-    "package": "cpp11",
-    "url": "https://github.com/r-lib/cpp11",
-    "via": ["lobstr"],
-    "from": "lobstr"
-  },
-  {
     "package": "oskeyring",
     "url": "https://github.com/r-lib/oskeyring",
     "via": ["gitcreds"],
