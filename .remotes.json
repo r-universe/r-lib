@@ -56,6 +56,12 @@
   {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
+    "via": ["tidyselect", "vctrs"],
+    "from": "tidyselect"
+  },
+  {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
     "via": ["vctrs"],
     "from": "vctrs"
   },
