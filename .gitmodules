@@ -8,11 +8,6 @@
 	url = https://github.com/r-lib/archive
 	shallow = true
 	registered = true
-[submodule "askpass"]
-	path = askpass
-	url = https://github.com/r-lib/askpass
-	shallow = true
-	registered = true
 [submodule "available"]
 	path = available
 	url = https://github.com/r-lib/available
@@ -61,11 +56,6 @@
 [submodule "cliapp"]
 	path = cliapp
 	url = https://github.com/r-lib/cliapp
-	shallow = true
-	registered = true
-[submodule "clisymbols"]
-	path = clisymbols
-	url = https://github.com/r-lib/clisymbols
 	shallow = true
 	registered = true
 [submodule "clock"]
@@ -323,11 +313,6 @@
 	url = https://github.com/r-lib/prettycode
 	shallow = true
 	registered = true
-[submodule "prettyunits"]
-	path = prettyunits
-	url = https://github.com/r-lib/prettyunits
-	shallow = true
-	registered = true
 [submodule "processx"]
 	path = processx
 	url = https://github.com/r-lib/processx
@@ -371,11 +356,6 @@
 [submodule "remotes"]
 	path = remotes
 	url = https://github.com/r-lib/remotes
-	shallow = true
-	registered = true
-[submodule "rex"]
-	path = rex
-	url = https://github.com/r-lib/rex
 	shallow = true
 	registered = true
 [submodule "rlang"]
@@ -516,11 +496,6 @@
 [submodule "ymlthis"]
 	path = ymlthis
 	url = https://github.com/r-lib/ymlthis
-	shallow = true
-	registered = true
-[submodule "zeallot"]
-	path = zeallot
-	url = https://github.com/r-lib/zeallot
 	shallow = true
 	registered = true
 [submodule "zip"]

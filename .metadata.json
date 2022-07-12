@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "askpass",
-    "oncran": true
-  },
-  {
     "package": "available",
     "oncran": true
   },
@@ -45,10 +41,6 @@
   },
   {
     "package": "cliapp",
-    "oncran": true
-  },
-  {
-    "package": "clisymbols",
     "oncran": true
   },
   {
@@ -256,10 +248,6 @@
     "oncran": true
   },
   {
-    "package": "prettyunits",
-    "oncran": true
-  },
-  {
     "package": "processx",
     "oncran": true
   },
@@ -293,10 +281,6 @@
   },
   {
     "package": "remotes",
-    "oncran": true
-  },
-  {
-    "package": "rex",
     "oncran": true
   },
   {
@@ -409,10 +393,6 @@
   },
   {
     "package": "ymlthis",
-    "oncran": true
-  },
-  {
-    "package": "zeallot",
     "oncran": true
   },
   {
