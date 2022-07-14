@@ -1,11 +1,5 @@
 [
   {
-    "package": "asciicast",
-    "url": "https://github.com/r-lib/asciicast",
-    "via": ["cli"],
-    "from": "cli"
-  },
-  {
     "package": "callr",
     "url": "https://github.com/r-lib/callr",
     "via": ["pak"],

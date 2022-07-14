@@ -528,8 +528,3 @@
 	url = https://github.com/r-lib/zip
 	shallow = true
 	registered = true
-[submodule "asciicast"]
-	path = asciicast
-	url = https://github.com/r-lib/asciicast
-	shallow = true
-	registered = false
