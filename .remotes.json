@@ -1,21 +1,9 @@
 [
   {
-    "package": "callr",
-    "url": "https://github.com/r-lib/callr",
-    "via": ["pak"],
-    "from": "pak"
-  },
-  {
     "package": "cli",
     "url": "https://github.com/r-lib/cli",
     "via": ["asciicast"],
     "from": "asciicast"
-  },
-  {
-    "package": "desc",
-    "url": "https://github.com/r-lib/desc",
-    "via": ["pak"],
-    "from": "pak"
   },
   {
     "package": "lifecycle",
@@ -24,26 +12,8 @@
     "from": "tidyselect"
   },
   {
-    "package": "pkgcache",
-    "url": "https://github.com/r-lib/pkgcache",
-    "via": ["pak"],
-    "from": "pak"
-  },
-  {
     "package": "pkgdepends",
     "url": "https://github.com/r-lib/pkgdepends",
-    "via": ["pak"],
-    "from": "pak"
-  },
-  {
-    "package": "processx",
-    "url": "https://github.com/r-lib/processx",
-    "via": ["pak"],
-    "from": "pak"
-  },
-  {
-    "package": "ps",
-    "url": "https://github.com/r-lib/ps",
     "via": ["pak"],
     "from": "pak"
   },
