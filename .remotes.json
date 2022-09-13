@@ -6,12 +6,6 @@
     "from": "asciicast"
   },
   {
-    "package": "lifecycle",
-    "url": "https://github.com/r-lib/lifecycle",
-    "via": ["tidyselect"],
-    "from": "tidyselect"
-  },
-  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["cpp11"],
