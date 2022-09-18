@@ -163,11 +163,6 @@
 	url = https://github.com/r-lib/fastmap
 	shallow = true
 	registered = true
-[submodule "filelock"]
-	path = filelock
-	url = https://github.com/r-lib/filelock
-	shallow = true
-	registered = true
 [submodule "fs"]
 	path = fs
 	url = https://github.com/r-lib/fs
