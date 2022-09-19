@@ -113,39 +113,9 @@
 	url = https://github.com/r-lib/credentials
 	shallow = true
 	registered = true
-[submodule "debugme"]
-	path = debugme
-	url = https://github.com/r-lib/debugme
-	shallow = true
-	registered = true
-[submodule "decor"]
-	path = decor
-	url = https://github.com/r-lib/decor
-	shallow = true
-	registered = true
 [submodule "desc"]
 	path = desc
 	url = https://github.com/r-lib/desc
-	shallow = true
-	registered = true
-[submodule "devoid"]
-	path = devoid
-	url = https://github.com/r-lib/devoid
-	shallow = true
-	registered = true
-[submodule "devtools"]
-	path = devtools
-	url = https://github.com/r-lib/devtools
-	shallow = true
-	registered = true
-[submodule "diffviewer"]
-	path = diffviewer
-	url = https://github.com/r-lib/diffviewer
-	shallow = true
-	registered = true
-[submodule "downlit"]
-	path = downlit
-	url = https://github.com/r-lib/downlit
 	shallow = true
 	registered = true
 [submodule "ellipsis"]
@@ -161,6 +131,11 @@
 [submodule "fastmap"]
 	path = fastmap
 	url = https://github.com/r-lib/fastmap
+	shallow = true
+	registered = true
+[submodule "filelock"]
+	path = filelock
+	url = https://github.com/r-lib/filelock
 	shallow = true
 	registered = true
 [submodule "fs"]
@@ -238,29 +213,9 @@
 	url = https://github.com/r-lib/lifecycle
 	shallow = true
 	registered = true
-[submodule "lintr"]
-	path = lintr
-	url = https://github.com/r-lib/lintr
-	shallow = true
-	registered = true
-[submodule "liteq"]
-	path = liteq
-	url = https://github.com/r-lib/liteq
-	shallow = true
-	registered = true
-[submodule "lobstr"]
-	path = lobstr
-	url = https://github.com/r-lib/lobstr
-	shallow = true
-	registered = true
 [submodule "meltr"]
 	path = meltr
 	url = https://github.com/r-lib/meltr
-	shallow = true
-	registered = true
-[submodule "memoise"]
-	path = memoise
-	url = https://github.com/r-lib/memoise
 	shallow = true
 	registered = true
 [submodule "mockery"]
