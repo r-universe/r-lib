@@ -88,7 +88,31 @@
     "oncran": true
   },
   {
+    "package": "debugme",
+    "oncran": true
+  },
+  {
+    "package": "decor",
+    "oncran": true
+  },
+  {
     "package": "desc",
+    "oncran": true
+  },
+  {
+    "package": "devoid",
+    "oncran": true
+  },
+  {
+    "package": "devtools",
+    "oncran": true
+  },
+  {
+    "package": "diffviewer",
+    "oncran": true
+  },
+  {
+    "package": "downlit",
     "oncran": true
   },
   {
@@ -168,7 +192,23 @@
     "oncran": true
   },
   {
+    "package": "lintr",
+    "oncran": true
+  },
+  {
+    "package": "liteq",
+    "oncran": true
+  },
+  {
+    "package": "lobstr",
+    "oncran": true
+  },
+  {
     "package": "meltr",
+    "oncran": true
+  },
+  {
+    "package": "memoise",
     "oncran": true
   },
   {
