@@ -12,13 +12,6 @@
     "from": "pak"
   },
   {
-    "package": "testthat",
-    "url": "https://github.com/r-lib/testthat",
-    "via": ["cpp11"],
-    "branch": "ad8b726d1734c59ed08ec7d11df4a3d76d8e69df",
-    "from": "cpp11"
-  },
-  {
     "package": "webfakes",
     "url": "https://github.com/r-lib/webfakes",
     "via": ["pkgcache"],
