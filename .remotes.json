@@ -24,12 +24,6 @@
     "from": "pillar"
   },
   {
-    "package": "vctrs",
-    "url": "https://github.com/r-lib/vctrs",
-    "via": ["tidyselect"],
-    "from": "tidyselect"
-  },
-  {
     "package": "webfakes",
     "url": "https://github.com/r-lib/webfakes",
     "via": ["pak", "pkgcache"],
