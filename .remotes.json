@@ -10,11 +10,5 @@
     "url": "https://github.com/r-lib/pkgdepends",
     "via": ["pak"],
     "from": "pak"
-  },
-  {
-    "package": "vctrs",
-    "url": "https://github.com/r-lib/vctrs",
-    "via": ["pillar"],
-    "from": "pillar"
   }
 ]
