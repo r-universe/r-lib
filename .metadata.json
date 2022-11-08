@@ -152,6 +152,10 @@
     "oncran": true
   },
   {
+    "package": "ghapps",
+    "oncran": true
+  },
+  {
     "package": "gitcreds",
     "oncran": true
   },

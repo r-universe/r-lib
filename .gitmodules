@@ -193,6 +193,11 @@
 	url = https://github.com/r-lib/gh
 	shallow = true
 	registered = true
+[submodule "ghapps"]
+	path = ghapps
+	url = https://github.com/r-lib/ghapps
+	shallow = true
+	registered = true
 [submodule "gitcreds"]
 	path = gitcreds
 	url = https://github.com/r-lib/gitcreds
