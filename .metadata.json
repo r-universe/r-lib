@@ -336,6 +336,10 @@
     "oncran": true
   },
   {
+    "package": "slider",
+    "oncran": true
+  },
+  {
     "package": "sloop",
     "oncran": true
   },

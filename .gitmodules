@@ -423,6 +423,11 @@
 	url = https://github.com/r-lib/showimage
 	shallow = true
 	registered = true
+[submodule "slider"]
+	path = slider
+	url = https://github.com/r-lib/slider
+	shallow = true
+	registered = true
 [submodule "sloop"]
 	path = sloop
 	url = https://github.com/r-lib/sloop
