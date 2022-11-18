@@ -1,9 +1,21 @@
 [
   {
+    "package": "asciicast",
+    "url": "https://github.com/r-lib/asciicast",
+    "via": ["pkgdepends"],
+    "from": "pkgdepends"
+  },
+  {
     "package": "cli",
     "url": "https://github.com/r-lib/cli",
     "via": ["asciicast"],
     "from": "asciicast"
+  },
+  {
+    "package": "cli",
+    "url": "https://github.com/r-lib/cli",
+    "via": ["pkgdepends", "asciicast"],
+    "from": "pkgdepends"
   },
   {
     "package": "pkgcache",
