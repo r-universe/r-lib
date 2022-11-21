@@ -8,12 +8,6 @@
   {
     "package": "cli",
     "url": "https://github.com/r-lib/cli",
-    "via": ["asciicast"],
-    "from": "asciicast"
-  },
-  {
-    "package": "cli",
-    "url": "https://github.com/r-lib/cli",
     "via": ["pkgdepends", "asciicast"],
     "from": "pkgdepends"
   },
