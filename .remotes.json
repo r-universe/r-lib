@@ -2,6 +2,12 @@
   {
     "package": "asciicast",
     "url": "https://github.com/r-lib/asciicast",
+    "via": ["pak", "pkgdepends"],
+    "from": "pak"
+  },
+  {
+    "package": "asciicast",
+    "url": "https://github.com/r-lib/asciicast",
     "via": ["pkgdepends"],
     "from": "pkgdepends"
   },
