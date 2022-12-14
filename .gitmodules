@@ -228,6 +228,11 @@
 	url = https://github.com/r-lib/httr2
 	shallow = true
 	registered = true
+[submodule "isoband"]
+	path = isoband
+	url = https://github.com/r-lib/isoband
+	shallow = true
+	registered = true
 [submodule "jose"]
 	path = jose
 	url = https://github.com/r-lib/jose

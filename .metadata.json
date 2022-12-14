@@ -180,6 +180,10 @@
     "oncran": true
   },
   {
+    "package": "isoband",
+    "oncran": true
+  },
+  {
     "package": "jose",
     "oncran": true
   },
