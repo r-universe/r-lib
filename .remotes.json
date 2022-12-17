@@ -6,12 +6,6 @@
     "from": "pak"
   },
   {
-    "package": "asciicast",
-    "url": "https://github.com/r-lib/asciicast",
-    "via": ["pkgdepends"],
-    "from": "pkgdepends"
-  },
-  {
     "package": "pkgcache",
     "url": "https://github.com/r-lib/pkgcache",
     "via": ["pak"],
