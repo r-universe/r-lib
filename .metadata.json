@@ -1,438 +1,329 @@
 [
   {
-    "package": "archive",
-    "oncran": true
+    "package": "archive"
   },
   {
-    "package": "asciicast",
-    "oncran": true
+    "package": "asciicast"
   },
   {
-    "package": "askpass",
-    "oncran": true
+    "package": "askpass"
   },
   {
-    "package": "available",
-    "oncran": true
+    "package": "available"
   },
   {
-    "package": "backports",
-    "oncran": true
+    "package": "backports"
   },
   {
-    "package": "bench",
-    "oncran": true
+    "package": "bench"
   },
   {
-    "package": "brio",
-    "oncran": true
+    "package": "brio"
   },
   {
-    "package": "cachem",
-    "oncran": true
+    "package": "cachem"
   },
   {
-    "package": "callr",
-    "oncran": true
+    "package": "callr"
   },
   {
-    "package": "carrier",
-    "oncran": true
+    "package": "carrier"
   },
   {
-    "package": "cleancall",
-    "oncran": true
+    "package": "cleancall"
   },
   {
-    "package": "cli",
-    "oncran": true
+    "package": "cli"
   },
   {
-    "package": "cliapp",
-    "oncran": true
+    "package": "cliapp"
   },
   {
-    "package": "clisymbols",
-    "oncran": true
+    "package": "clisymbols"
   },
   {
-    "package": "clock",
-    "oncran": true
+    "package": "clock"
   },
   {
-    "package": "commonmark",
-    "oncran": true
+    "package": "commonmark"
   },
   {
-    "package": "conflicted",
-    "oncran": true
+    "package": "conflicted"
   },
   {
-    "package": "coro",
-    "oncran": true
+    "package": "coro"
   },
   {
-    "package": "covr",
-    "oncran": true
+    "package": "covr"
   },
   {
-    "package": "cpp11",
-    "oncran": true
+    "package": "cpp11"
   },
   {
-    "package": "crayon",
-    "oncran": true
+    "package": "crayon"
   },
   {
-    "package": "credentials",
-    "oncran": true
+    "package": "credentials"
   },
   {
-    "package": "debugme",
-    "oncran": true
+    "package": "debugme"
   },
   {
-    "package": "decor",
-    "oncran": true
+    "package": "decor"
   },
   {
-    "package": "desc",
-    "oncran": true
+    "package": "desc"
   },
   {
-    "package": "devoid",
-    "oncran": true
+    "package": "devoid"
   },
   {
-    "package": "devtools",
-    "oncran": true
+    "package": "devtools"
   },
   {
-    "package": "diffviewer",
-    "oncran": true
+    "package": "diffviewer"
   },
   {
-    "package": "downlit",
-    "oncran": true
+    "package": "downlit"
   },
   {
-    "package": "ellipsis",
-    "oncran": true
+    "package": "ellipsis"
   },
   {
-    "package": "evaluate",
-    "oncran": true
+    "package": "evaluate"
   },
   {
-    "package": "fastmap",
-    "oncran": true
+    "package": "fastmap"
   },
   {
-    "package": "filelock",
-    "oncran": true
+    "package": "filelock"
   },
   {
-    "package": "fs",
-    "oncran": true
+    "package": "fs"
   },
   {
-    "package": "gargle",
-    "oncran": true
+    "package": "gargle"
   },
   {
-    "package": "generics",
-    "oncran": true
+    "package": "generics"
   },
   {
-    "package": "gert",
-    "oncran": true
+    "package": "gert"
   },
   {
-    "package": "gh",
-    "oncran": true
+    "package": "gh"
   },
   {
-    "package": "ghapps",
-    "oncran": true
+    "package": "ghapps"
   },
   {
-    "package": "gitcreds",
-    "oncran": true
+    "package": "gitcreds"
   },
   {
-    "package": "gmailr",
-    "oncran": true
+    "package": "gmailr"
   },
   {
-    "package": "gtable",
-    "oncran": true
+    "package": "gtable"
   },
   {
-    "package": "here",
-    "oncran": true
+    "package": "here"
   },
   {
-    "package": "httr",
-    "oncran": true
+    "package": "httr"
   },
   {
-    "package": "httr2",
-    "oncran": true
+    "package": "httr2"
   },
   {
-    "package": "isoband",
-    "oncran": true
+    "package": "isoband"
   },
   {
-    "package": "jose",
-    "oncran": true
+    "package": "jose"
   },
   {
-    "package": "keyring",
-    "oncran": true
+    "package": "keyring"
   },
   {
-    "package": "later",
-    "oncran": true
+    "package": "later"
   },
   {
-    "package": "lifecycle",
-    "oncran": true
+    "package": "lifecycle"
   },
   {
-    "package": "lintr",
-    "oncran": true
+    "package": "lintr"
   },
   {
-    "package": "liteq",
-    "oncran": true
+    "package": "liteq"
   },
   {
-    "package": "lobstr",
-    "oncran": true
+    "package": "lobstr"
   },
   {
-    "package": "meltr",
-    "oncran": true
+    "package": "meltr"
   },
   {
-    "package": "memoise",
-    "oncran": true
+    "package": "memoise"
   },
   {
-    "package": "mockery",
-    "oncran": true
+    "package": "mockery"
   },
   {
-    "package": "oskeyring",
-    "oncran": true
+    "package": "oskeyring"
   },
   {
-    "package": "pak",
-    "oncran": true
+    "package": "pak"
   },
   {
-    "package": "pillar",
-    "oncran": true
+    "package": "pillar"
   },
   {
-    "package": "pingr",
-    "oncran": true
+    "package": "pingr"
   },
   {
-    "package": "pkgbuild",
-    "oncran": true
+    "package": "pkgbuild"
   },
   {
-    "package": "pkgcache",
-    "oncran": true
+    "package": "pkgcache"
   },
   {
-    "package": "pkgconfig",
-    "oncran": true
+    "package": "pkgconfig"
   },
   {
-    "package": "pkgdepends",
-    "oncran": true
+    "package": "pkgdepends"
   },
   {
-    "package": "pkgdown",
-    "oncran": true
+    "package": "pkgdown"
   },
   {
-    "package": "pkgload",
-    "oncran": true
+    "package": "pkgload"
   },
   {
-    "package": "prettycode",
-    "oncran": true
+    "package": "prettycode"
   },
   {
-    "package": "prettyunits",
-    "oncran": true
+    "package": "prettyunits"
   },
   {
-    "package": "processx",
-    "oncran": true
+    "package": "processx"
   },
   {
-    "package": "progress",
-    "oncran": true
+    "package": "progress"
   },
   {
-    "package": "ps",
-    "oncran": true
+    "package": "ps"
   },
   {
-    "package": "R6",
-    "oncran": true
+    "package": "R6"
   },
   {
-    "package": "ragg",
-    "oncran": true
+    "package": "ragg"
   },
   {
-    "package": "rappdirs",
-    "oncran": true
+    "package": "rappdirs"
   },
   {
-    "package": "rcmdcheck",
-    "oncran": true
+    "package": "rcmdcheck"
   },
   {
-    "package": "rematch2",
-    "oncran": true
+    "package": "rematch2"
   },
   {
-    "package": "remotes",
-    "oncran": true
+    "package": "remotes"
   },
   {
-    "package": "rex",
-    "oncran": true
+    "package": "rex"
   },
   {
-    "package": "rlang",
-    "oncran": true
+    "package": "rlang"
   },
   {
-    "package": "roxygen2",
-    "oncran": true
+    "package": "roxygen2"
   },
   {
-    "package": "roxygen2md",
-    "oncran": true
+    "package": "roxygen2md"
   },
   {
-    "package": "rprojroot",
-    "oncran": true
+    "package": "rprojroot"
   },
   {
-    "package": "scales",
-    "oncran": true
+    "package": "scales"
   },
   {
-    "package": "sessioninfo",
-    "oncran": true
+    "package": "sessioninfo"
   },
   {
-    "package": "showimage",
-    "oncran": true
+    "package": "showimage"
   },
   {
-    "package": "slider",
-    "oncran": true
+    "package": "slider"
   },
   {
-    "package": "sloop",
-    "oncran": true
+    "package": "sloop"
   },
   {
-    "package": "sodium",
-    "oncran": true
+    "package": "sodium"
   },
   {
-    "package": "styler",
-    "oncran": true
+    "package": "styler"
   },
   {
-    "package": "svglite",
-    "oncran": true
+    "package": "svglite"
   },
   {
-    "package": "systemfonts",
-    "oncran": true
+    "package": "systemfonts"
   },
   {
-    "package": "testthat",
-    "oncran": true
+    "package": "testthat"
   },
   {
-    "package": "textshaping",
-    "oncran": true
+    "package": "textshaping"
   },
   {
-    "package": "tidyselect",
-    "oncran": true
+    "package": "tidyselect"
   },
   {
-    "package": "tzdb",
-    "oncran": true
+    "package": "tzdb"
   },
   {
-    "package": "urlchecker",
-    "oncran": true
+    "package": "urlchecker"
   },
   {
-    "package": "usethis",
-    "oncran": true
+    "package": "usethis"
   },
   {
-    "package": "vctrs",
-    "oncran": true
+    "package": "vctrs"
   },
   {
-    "package": "vdiffr",
-    "oncran": true
+    "package": "vdiffr"
   },
   {
-    "package": "waldo",
-    "oncran": true
+    "package": "waldo"
   },
   {
-    "package": "webfakes",
-    "oncran": true
+    "package": "webfakes"
   },
   {
-    "package": "whoami",
-    "oncran": true
+    "package": "whoami"
   },
   {
-    "package": "withr",
-    "oncran": true
+    "package": "withr"
   },
   {
-    "package": "xml2",
-    "oncran": true
+    "package": "xml2"
   },
   {
-    "package": "xmlparsedata",
-    "oncran": true
+    "package": "xmlparsedata"
   },
   {
-    "package": "xopen",
-    "oncran": true
+    "package": "xopen"
   },
   {
-    "package": "ymlthis",
-    "oncran": true
+    "package": "ymlthis"
   },
   {
-    "package": "zeallot",
-    "oncran": true
+    "package": "zeallot"
   },
   {
-    "package": "zip",
-    "oncran": true
+    "package": "zip"
   }
 ]
