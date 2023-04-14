@@ -1,5 +1,11 @@
 [
   {
+    "package": "callr",
+    "url": "https://github.com/r-lib/callr",
+    "via": ["processx"],
+    "from": "processx"
+  },
+  {
     "package": "pkgcache",
     "url": "https://github.com/r-lib/pkgcache",
     "via": ["pak", "pkgdepends"],
