@@ -2,6 +2,12 @@
   {
     "package": "callr",
     "url": "https://github.com/r-lib/callr",
+    "via": ["pak", "processx"],
+    "from": "pak"
+  },
+  {
+    "package": "callr",
+    "url": "https://github.com/r-lib/callr",
     "via": ["processx"],
     "from": "processx"
   },
