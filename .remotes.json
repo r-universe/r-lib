@@ -1,17 +1,5 @@
 [
   {
-    "package": "callr",
-    "url": "https://github.com/r-lib/callr",
-    "via": ["pak", "processx"],
-    "from": "pak"
-  },
-  {
-    "package": "pkgcache",
-    "url": "https://github.com/r-lib/pkgcache",
-    "via": ["pak", "pkgdepends"],
-    "from": "pak"
-  },
-  {
     "package": "pkgcache",
     "url": "https://github.com/r-lib/pkgcache",
     "via": ["pkgdepends"],
@@ -21,18 +9,6 @@
     "package": "pkgdepends",
     "url": "https://github.com/r-lib/pkgdepends",
     "via": ["pak"],
-    "from": "pak"
-  },
-  {
-    "package": "processx",
-    "url": "https://github.com/r-lib/processx",
-    "via": ["pak"],
-    "from": "pak"
-  },
-  {
-    "package": "zip",
-    "url": "https://github.com/r-lib/zip",
-    "via": ["pak", "pkgdepends"],
     "from": "pak"
   }
 ]
