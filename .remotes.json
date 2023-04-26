@@ -1,0 +1,8 @@
+[
+  {
+    "package": "tzdb",
+    "url": "https://github.com/r-lib/tzdb",
+    "via": ["clock"],
+    "from": "clock"
+  }
+]
