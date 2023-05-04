@@ -14,12 +14,6 @@
   {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
-    "via": ["bench"],
-    "from": "bench"
-  },
-  {
-    "package": "testthat",
-    "url": "https://github.com/r-lib/testthat",
     "via": ["usethis"],
     "from": "usethis"
   },
