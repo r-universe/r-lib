@@ -22,11 +22,5 @@
     "url": "https://github.com/r-lib/testthat",
     "via": ["usethis"],
     "from": "usethis"
-  },
-  {
-    "package": "tzdb",
-    "url": "https://github.com/r-lib/tzdb",
-    "via": ["clock"],
-    "from": "clock"
   }
 ]
