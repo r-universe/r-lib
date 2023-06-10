@@ -53,6 +53,11 @@
 	url = https://github.com/r-lib/carrier
 	shallow = true
 	registered = true
+[submodule "cereal"]
+	path = cereal
+	url = https://github.com/r-lib/cereal
+	shallow = true
+	registered = true
 [submodule "cleancall"]
 	path = cleancall
 	url = https://github.com/r-lib/cleancall
