@@ -22,12 +22,5 @@
     "url": "https://github.com/r-lib/pkgdepends",
     "via": ["pak"],
     "from": "pak"
-  },
-  {
-    "package": "pkgload",
-    "url": "https://github.com/r-lib/pkgload",
-    "via": ["usethis"],
-    "branch": "jenny-experiment",
-    "from": "usethis"
   }
 ]
