@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "R6"]
+	path = R6
+	url = https://github.com/r-lib/r6
 [submodule "archive"]
 	path = archive
 	url = https://github.com/r-lib/archive
@@ -218,9 +221,6 @@
 [submodule "ps"]
 	path = ps
 	url = https://github.com/r-lib/ps
-[submodule "R6"]
-	path = R6
-	url = https://github.com/r-lib/r6
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/r-lib/ragg
