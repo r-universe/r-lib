@@ -74,6 +74,10 @@
 [submodule "credentials"]
 	path = credentials
 	url = https://github.com/r-lib/credentials
+[submodule "curl"]
+	path = curl
+	url = https://github.com/jeroen/curl
+	registered = false
 [submodule "debugme"]
 	path = debugme
 	url = https://github.com/r-lib/debugme
