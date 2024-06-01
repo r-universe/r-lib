@@ -275,6 +275,9 @@
 [submodule "sodium"]
 	path = sodium
 	url = https://github.com/r-lib/sodium
+[submodule "sparsevctrs"]
+	path = sparsevctrs
+	url = https://github.com/r-lib/sparsevctrs
 [submodule "styler"]
 	path = styler
 	url = https://github.com/r-lib/styler
