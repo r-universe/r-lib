@@ -1,5 +1,11 @@
 [
   {
+    "package": "evaluate",
+    "url": "https://github.com/r-lib/evaluate",
+    "via": ["pkgdown"],
+    "from": "pkgdown"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["devtools"],
