@@ -221,6 +221,9 @@
 [submodule "processx"]
 	path = processx
 	url = https://github.com/r-lib/processx
+[submodule "profvis"]
+	path = profvis
+	url = https://github.com/r-lib/profvis
 [submodule "progress"]
 	path = progress
 	url = https://github.com/r-lib/progress
