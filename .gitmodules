@@ -5,6 +5,9 @@
 [submodule "R6"]
 	path = R6
 	url = https://github.com/r-lib/r6
+[submodule "Rapp"]
+	path = Rapp
+	url = https://github.com/r-lib/rapp
 [submodule "archive"]
 	path = archive
 	url = https://github.com/r-lib/archive
