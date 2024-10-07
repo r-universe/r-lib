@@ -1,5 +1,11 @@
 [
   {
+    "package": "ps",
+    "url": "https://github.com/r-lib/ps",
+    "via": ["pingr"],
+    "from": "pingr"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["devtools"],
