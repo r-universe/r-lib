@@ -176,6 +176,9 @@
 [submodule "lobstr"]
 	path = lobstr
 	url = https://github.com/r-lib/lobstr
+[submodule "log4r"]
+	path = log4r
+	url = https://github.com/r-lib/log4r
 [submodule "marquee"]
 	path = marquee
 	url = https://github.com/r-lib/marquee
