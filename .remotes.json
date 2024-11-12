@@ -12,6 +12,12 @@
     "from": "gh"
   },
   {
+    "package": "later",
+    "url": "https://github.com/r-lib/later",
+    "via": ["httr2"],
+    "from": "httr2"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["devtools"],
