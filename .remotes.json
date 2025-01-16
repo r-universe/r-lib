@@ -12,6 +12,12 @@
     "from": "gh"
   },
   {
+    "package": "systemfonts",
+    "url": "https://github.com/r-lib/systemfonts",
+    "via": ["marquee"],
+    "from": "marquee"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["devtools"],
