@@ -333,6 +333,9 @@
 [submodule "waldo"]
 	path = waldo
 	url = https://github.com/r-lib/waldo
+[submodule "watcher"]
+	path = watcher
+	url = https://github.com/r-lib/watcher
 [submodule "webfakes"]
 	path = webfakes
 	url = https://github.com/r-lib/webfakes
