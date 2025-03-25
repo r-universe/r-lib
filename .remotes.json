@@ -12,6 +12,12 @@
     "from": "pak"
   },
   {
+    "package": "pkgcache",
+    "url": "https://github.com/r-lib/pkgcache",
+    "via": ["pkgdepends"],
+    "from": "pkgdepends"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["devtools"],
