@@ -188,9 +188,15 @@
 [submodule "memoise"]
 	path = memoise
 	url = https://github.com/r-lib/memoise
+[submodule "mirai"]
+	path = mirai
+	url = https://github.com/r-lib/mirai
 [submodule "mockery"]
 	path = mockery
 	url = https://github.com/r-lib/mockery
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/r-lib/nanonext
 [submodule "nanoparquet"]
 	path = nanoparquet
 	url = https://github.com/r-lib/nanoparquet
