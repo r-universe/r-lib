@@ -24,6 +24,12 @@
     "from": "pkgdepends"
   },
   {
+    "package": "ps",
+    "url": "https://github.com/r-lib/ps",
+    "via": ["pingr"],
+    "from": "pingr"
+  },
+  {
     "package": "ragg",
     "url": "https://github.com/r-lib/ragg",
     "via": ["evaluate"],
