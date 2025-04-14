@@ -161,6 +161,10 @@
 [submodule "keyring"]
 	path = keyring
 	url = https://github.com/r-lib/keyring
+[submodule "knitr"]
+	path = knitr
+	url = https://github.com/yihui/knitr
+	registered = false
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
