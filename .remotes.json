@@ -6,12 +6,6 @@
     "from": "gh"
   },
   {
-    "package": "knitr",
-    "url": "https://github.com/yihui/knitr",
-    "via": ["pkgdown"],
-    "from": "pkgdown"
-  },
-  {
     "package": "nanonext",
     "url": "https://github.com/r-lib/nanonext",
     "via": ["mirai"],
