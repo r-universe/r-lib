@@ -1,11 +1,5 @@
 [
   {
-    "package": "httr2",
-    "url": "https://github.com/r-lib/httr2",
-    "via": ["gh"],
-    "from": "gh"
-  },
-  {
     "package": "keyring",
     "url": "https://github.com/r-lib/keyring",
     "via": ["pak"],
@@ -40,12 +34,6 @@
     "url": "https://github.com/r-lib/testthat",
     "via": ["devtools"],
     "from": "devtools"
-  },
-  {
-    "package": "webfakes",
-    "url": "https://github.com/r-lib/webfakes",
-    "via": ["gh", "httr2"],
-    "from": "gh"
   },
   {
     "package": "webfakes",
