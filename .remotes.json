@@ -1,17 +1,5 @@
 [
   {
-    "package": "keyring",
-    "url": "https://github.com/r-lib/keyring",
-    "via": ["pak"],
-    "from": "pak"
-  },
-  {
-    "package": "pkgcache",
-    "url": "https://github.com/r-lib/pkgcache",
-    "via": ["pak"],
-    "from": "pak"
-  },
-  {
     "package": "ps",
     "url": "https://github.com/r-lib/ps",
     "via": ["pingr"],
