@@ -1,11 +1,5 @@
 [
   {
-    "package": "nanonext",
-    "url": "https://github.com/r-lib/nanonext",
-    "via": ["mirai"],
-    "from": "mirai"
-  },
-  {
     "package": "ps",
     "url": "https://github.com/r-lib/ps",
     "via": ["pingr"],
