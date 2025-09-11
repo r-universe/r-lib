@@ -206,6 +206,9 @@
 [submodule "otel"]
 	path = otel
 	url = https://github.com/r-lib/otel
+[submodule "otelsdk"]
+	path = otelsdk
+	url = https://github.com/r-lib/otelsdk
 [submodule "pak"]
 	path = pak
 	url = https://github.com/r-lib/pak
