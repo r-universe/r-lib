@@ -323,6 +323,9 @@
 [submodule "tidyselect"]
 	path = tidyselect
 	url = https://github.com/r-lib/tidyselect
+[submodule "toml"]
+	path = toml
+	url = https://github.com/r-lib/toml
 [submodule "treesitter.r"]
 	path = treesitter.r
 	url = https://github.com/r-lib/tree-sitter-r
