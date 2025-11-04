@@ -254,6 +254,10 @@
 [submodule "ps"]
 	path = ps
 	url = https://github.com/r-lib/ps
+[submodule "quarto"]
+	path = quarto
+	url = https://github.com/quarto-dev/quarto-r
+	registered = false
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/r-lib/ragg
