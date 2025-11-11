@@ -1,5 +1,11 @@
 [
   {
+    "package": "gargle",
+    "url": "https://github.com/r-lib/gargle",
+    "via": ["gmailr"],
+    "from": "gmailr"
+  },
+  {
     "package": "ps",
     "url": "https://github.com/r-lib/ps",
     "via": ["pingr"],
