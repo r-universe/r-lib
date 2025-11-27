@@ -369,6 +369,9 @@
 [submodule "xopen"]
 	path = xopen
 	url = https://github.com/r-lib/xopen
+[submodule "yaml"]
+	path = yaml
+	url = https://github.com/r-lib/r-yaml
 [submodule "ymlthis"]
 	path = ymlthis
 	url = https://github.com/r-lib/ymlthis
