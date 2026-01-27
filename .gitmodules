@@ -182,9 +182,6 @@
 [submodule "marquee"]
 	path = marquee
 	url = https://github.com/r-lib/marquee
-[submodule "meltr"]
-	path = meltr
-	url = https://github.com/r-lib/meltr
 [submodule "memoise"]
 	path = memoise
 	url = https://github.com/r-lib/memoise
