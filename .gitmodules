@@ -284,6 +284,10 @@
 [submodule "scales"]
 	path = scales
 	url = https://github.com/r-lib/scales
+[submodule "secretbase"]
+	path = secretbase
+	url = https://github.com/shikokuchuo/secretbase
+	registered = false
 [submodule "sessioninfo"]
 	path = sessioninfo
 	url = https://github.com/r-lib/sessioninfo
