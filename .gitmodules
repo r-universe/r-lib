@@ -101,6 +101,9 @@
 [submodule "diffviewer"]
 	path = diffviewer
 	url = https://github.com/r-lib/diffviewer
+[submodule "doclisting"]
+	path = doclisting
+	url = https://github.com/r-lib/doclisting
 [submodule "downlit"]
 	path = downlit
 	url = https://github.com/r-lib/downlit
