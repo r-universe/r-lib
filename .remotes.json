@@ -12,6 +12,12 @@
     "from": "pingr"
   },
   {
+    "package": "ps",
+    "url": "https://github.com/r-lib/ps",
+    "via": ["processx"],
+    "from": "processx"
+  },
+  {
     "package": "systemfonts",
     "url": "https://github.com/r-lib/systemfonts",
     "via": ["textshaping"],
