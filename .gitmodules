@@ -83,6 +83,9 @@
 [submodule "credentials"]
 	path = credentials
 	url = https://github.com/r-lib/credentials
+[submodule "debrief"]
+	path = debrief
+	url = https://github.com/r-lib/debrief
 [submodule "debugme"]
 	path = debugme
 	url = https://github.com/r-lib/debugme
