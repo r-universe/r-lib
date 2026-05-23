@@ -1,0 +1,397 @@
+[submodule ".registry"]
+	path = .registry
+	url = https://github.com/r-universe-org/cran-to-git
+	branch = HEAD
+[submodule "R6"]
+	path = R6
+	url = https://github.com/r-lib/r6
+[submodule "Rapp"]
+	path = Rapp
+	url = https://github.com/r-lib/rapp
+[submodule "archive"]
+	path = archive
+	url = https://github.com/r-lib/archive
+[submodule "asciicast"]
+	path = asciicast
+	url = https://github.com/r-lib/asciicast
+[submodule "askpass"]
+	path = askpass
+	url = https://github.com/r-lib/askpass
+[submodule "available"]
+	path = available
+	url = https://github.com/r-lib/available
+[submodule "backports"]
+	path = backports
+	url = https://github.com/r-lib/backports
+[submodule "bench"]
+	path = bench
+	url = https://github.com/r-lib/bench
+[submodule "bit"]
+	path = bit
+	url = https://github.com/r-lib/bit
+[submodule "bit64"]
+	path = bit64
+	url = https://github.com/r-lib/bit64
+[submodule "brio"]
+	path = brio
+	url = https://github.com/r-lib/brio
+[submodule "cachem"]
+	path = cachem
+	url = https://github.com/r-lib/cachem
+[submodule "callr"]
+	path = callr
+	url = https://github.com/r-lib/callr
+[submodule "carrier"]
+	path = carrier
+	url = https://github.com/r-lib/carrier
+[submodule "cereal"]
+	path = cereal
+	url = https://github.com/r-lib/cereal
+[submodule "cleancall"]
+	path = cleancall
+	url = https://github.com/r-lib/cleancall
+[submodule "cli"]
+	path = cli
+	url = https://github.com/r-lib/cli
+[submodule "cliapp"]
+	path = cliapp
+	url = https://github.com/r-lib/cliapp
+[submodule "clisymbols"]
+	path = clisymbols
+	url = https://github.com/r-lib/clisymbols
+[submodule "clock"]
+	path = clock
+	url = https://github.com/r-lib/clock
+[submodule "commonmark"]
+	path = commonmark
+	url = https://github.com/r-lib/commonmark
+[submodule "conflicted"]
+	path = conflicted
+	url = https://github.com/r-lib/conflicted
+[submodule "coro"]
+	path = coro
+	url = https://github.com/r-lib/coro
+[submodule "covr"]
+	path = covr
+	url = https://github.com/r-lib/covr
+[submodule "cpp11"]
+	path = cpp11
+	url = https://github.com/r-lib/cpp11
+[submodule "crayon"]
+	path = crayon
+	url = https://github.com/r-lib/crayon
+[submodule "credentials"]
+	path = credentials
+	url = https://github.com/r-lib/credentials
+[submodule "debrief"]
+	path = debrief
+	url = https://github.com/r-lib/debrief
+[submodule "debugme"]
+	path = debugme
+	url = https://github.com/r-lib/debugme
+[submodule "decor"]
+	path = decor
+	url = https://github.com/r-lib/decor
+[submodule "desc"]
+	path = desc
+	url = https://github.com/r-lib/desc
+[submodule "devoid"]
+	path = devoid
+	url = https://github.com/r-lib/devoid
+[submodule "devtools"]
+	path = devtools
+	url = https://github.com/r-lib/devtools
+[submodule "diffviewer"]
+	path = diffviewer
+	url = https://github.com/r-lib/diffviewer
+[submodule "doclisting"]
+	path = doclisting
+	url = https://github.com/r-lib/doclisting
+[submodule "downlit"]
+	path = downlit
+	url = https://github.com/r-lib/downlit
+[submodule "ellipsis"]
+	path = ellipsis
+	url = https://github.com/r-lib/ellipsis
+[submodule "evaluate"]
+	path = evaluate
+	url = https://github.com/r-lib/evaluate
+[submodule "fastmap"]
+	path = fastmap
+	url = https://github.com/r-lib/fastmap
+[submodule "filelock"]
+	path = filelock
+	url = https://github.com/r-lib/filelock
+[submodule "fs"]
+	path = fs
+	url = https://github.com/r-lib/fs
+[submodule "gargle"]
+	path = gargle
+	url = https://github.com/r-lib/gargle
+[submodule "generics"]
+	path = generics
+	url = https://github.com/r-lib/generics
+[submodule "gert"]
+	path = gert
+	url = https://github.com/r-lib/gert
+[submodule "gh"]
+	path = gh
+	url = https://github.com/r-lib/gh
+[submodule "ghapps"]
+	path = ghapps
+	url = https://github.com/r-lib/ghapps
+[submodule "gitcreds"]
+	path = gitcreds
+	url = https://github.com/r-lib/gitcreds
+[submodule "gmailr"]
+	path = gmailr
+	url = https://github.com/r-lib/gmailr
+[submodule "gtable"]
+	path = gtable
+	url = https://github.com/r-lib/gtable
+[submodule "here"]
+	path = here
+	url = https://github.com/r-lib/here
+[submodule "httr"]
+	path = httr
+	url = https://github.com/r-lib/httr
+[submodule "httr2"]
+	path = httr2
+	url = https://github.com/r-lib/httr2
+[submodule "isoband"]
+	path = isoband
+	url = https://github.com/r-lib/isoband
+[submodule "jose"]
+	path = jose
+	url = https://github.com/r-lib/jose
+[submodule "keyring"]
+	path = keyring
+	url = https://github.com/r-lib/keyring
+[submodule "later"]
+	path = later
+	url = https://github.com/r-lib/later
+[submodule "lifecycle"]
+	path = lifecycle
+	url = https://github.com/r-lib/lifecycle
+[submodule "lintr"]
+	path = lintr
+	url = https://github.com/r-lib/lintr
+[submodule "liteq"]
+	path = liteq
+	url = https://github.com/r-lib/liteq
+[submodule "lobstr"]
+	path = lobstr
+	url = https://github.com/r-lib/lobstr
+[submodule "log4r"]
+	path = log4r
+	url = https://github.com/r-lib/log4r
+[submodule "marquee"]
+	path = marquee
+	url = https://github.com/r-lib/marquee
+[submodule "memoise"]
+	path = memoise
+	url = https://github.com/r-lib/memoise
+[submodule "mirai"]
+	path = mirai
+	url = https://github.com/r-lib/mirai
+[submodule "mockery"]
+	path = mockery
+	url = https://github.com/r-lib/mockery
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/r-lib/nanonext
+[submodule "nanoparquet"]
+	path = nanoparquet
+	url = https://github.com/r-lib/nanoparquet
+[submodule "oskeyring"]
+	path = oskeyring
+	url = https://github.com/r-lib/oskeyring
+[submodule "otel"]
+	path = otel
+	url = https://github.com/r-lib/otel
+[submodule "otelsdk"]
+	path = otelsdk
+	url = https://github.com/r-lib/otelsdk
+[submodule "pak"]
+	path = pak
+	url = https://github.com/r-lib/pak
+[submodule "pillar"]
+	path = pillar
+	url = https://github.com/r-lib/pillar
+[submodule "pingr"]
+	path = pingr
+	url = https://github.com/r-lib/pingr
+[submodule "pkgbuild"]
+	path = pkgbuild
+	url = https://github.com/r-lib/pkgbuild
+[submodule "pkgcache"]
+	path = pkgcache
+	url = https://github.com/r-lib/pkgcache
+[submodule "pkgconfig"]
+	path = pkgconfig
+	url = https://github.com/r-lib/pkgconfig
+[submodule "pkgdepends"]
+	path = pkgdepends
+	url = https://github.com/r-lib/pkgdepends
+[submodule "pkgdown"]
+	path = pkgdown
+	url = https://github.com/r-lib/pkgdown
+[submodule "pkgload"]
+	path = pkgload
+	url = https://github.com/r-lib/pkgload
+[submodule "prettycode"]
+	path = prettycode
+	url = https://github.com/r-lib/prettycode
+[submodule "prettyunits"]
+	path = prettyunits
+	url = https://github.com/r-lib/prettyunits
+[submodule "processx"]
+	path = processx
+	url = https://github.com/r-lib/processx
+[submodule "profvis"]
+	path = profvis
+	url = https://github.com/r-lib/profvis
+[submodule "progress"]
+	path = progress
+	url = https://github.com/r-lib/progress
+[submodule "ps"]
+	path = ps
+	url = https://github.com/r-lib/ps
+[submodule "ragg"]
+	path = ragg
+	url = https://github.com/r-lib/ragg
+[submodule "rappdirs"]
+	path = rappdirs
+	url = https://github.com/r-lib/rappdirs
+[submodule "rcmdcheck"]
+	path = rcmdcheck
+	url = https://github.com/r-lib/rcmdcheck
+[submodule "rematch2"]
+	path = rematch2
+	url = https://github.com/r-lib/rematch2
+[submodule "remotes"]
+	path = remotes
+	url = https://github.com/r-lib/remotes
+[submodule "rex"]
+	path = rex
+	url = https://github.com/r-lib/rex
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+[submodule "roxygen2"]
+	path = roxygen2
+	url = https://github.com/r-lib/roxygen2
+[submodule "roxygen2md"]
+	path = roxygen2md
+	url = https://github.com/r-lib/roxygen2md
+[submodule "rprojroot"]
+	path = rprojroot
+	url = https://github.com/r-lib/rprojroot
+[submodule "scales"]
+	path = scales
+	url = https://github.com/r-lib/scales
+[submodule "sessioninfo"]
+	path = sessioninfo
+	url = https://github.com/r-lib/sessioninfo
+[submodule "showimage"]
+	path = showimage
+	url = https://github.com/r-lib/showimage
+[submodule "slider"]
+	path = slider
+	url = https://github.com/r-lib/slider
+[submodule "sloop"]
+	path = sloop
+	url = https://github.com/r-lib/sloop
+[submodule "sodium"]
+	path = sodium
+	url = https://github.com/r-lib/sodium
+[submodule "sparsevctrs"]
+	path = sparsevctrs
+	url = https://github.com/r-lib/sparsevctrs
+[submodule "styler"]
+	path = styler
+	url = https://github.com/r-lib/styler
+[submodule "svglite"]
+	path = svglite
+	url = https://github.com/r-lib/svglite
+[submodule "systemfonts"]
+	path = systemfonts
+	url = https://github.com/r-lib/systemfonts
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+[submodule "textshaping"]
+	path = textshaping
+	url = https://github.com/r-lib/textshaping
+[submodule "tidyselect"]
+	path = tidyselect
+	url = https://github.com/r-lib/tidyselect
+[submodule "toml"]
+	path = toml
+	url = https://github.com/r-lib/toml
+[submodule "treesitter.r"]
+	path = treesitter.r
+	url = https://github.com/r-lib/tree-sitter-r
+	subdir = bindings/r
+[submodule "tsitter"]
+	path = tsitter
+	url = https://github.com/r-lib/tsitter
+[submodule "tsjsonc"]
+	path = tsjsonc
+	url = https://github.com/gaborcsardi/tsjsonc
+	registered = false
+[submodule "tstoml"]
+	path = tstoml
+	url = https://github.com/gaborcsardi/tstoml
+	registered = false
+[submodule "tzdb"]
+	path = tzdb
+	url = https://github.com/r-lib/tzdb
+[submodule "urlchecker"]
+	path = urlchecker
+	url = https://github.com/r-lib/urlchecker
+[submodule "usethis"]
+	path = usethis
+	url = https://github.com/r-lib/usethis
+[submodule "vctrs"]
+	path = vctrs
+	url = https://github.com/r-lib/vctrs
+[submodule "vdiffr"]
+	path = vdiffr
+	url = https://github.com/r-lib/vdiffr
+[submodule "waldo"]
+	path = waldo
+	url = https://github.com/r-lib/waldo
+[submodule "watcher"]
+	path = watcher
+	url = https://github.com/r-lib/watcher
+[submodule "webfakes"]
+	path = webfakes
+	url = https://github.com/r-lib/webfakes
+[submodule "whoami"]
+	path = whoami
+	url = https://github.com/r-lib/whoami
+[submodule "withr"]
+	path = withr
+	url = https://github.com/r-lib/withr
+[submodule "xml2"]
+	path = xml2
+	url = https://github.com/r-lib/xml2
+[submodule "xmlparsedata"]
+	path = xmlparsedata
+	url = https://github.com/r-lib/xmlparsedata
+[submodule "xopen"]
+	path = xopen
+	url = https://github.com/r-lib/xopen
+[submodule "yaml"]
+	path = yaml
+	url = https://github.com/r-lib/yaml
+[submodule "ymlthis"]
+	path = ymlthis
+	url = https://github.com/r-lib/ymlthis
+[submodule "zeallot"]
+	path = zeallot
+	url = https://github.com/r-lib/zeallot
+[submodule "zip"]
+	path = zip
+	url = https://github.com/r-lib/zip
