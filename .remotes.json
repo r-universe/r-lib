@@ -1,5 +1,12 @@
 [
   {
+    "package": "pkgcache",
+    "url": "https://github.com/r-lib/pkgcache",
+    "via": ["pkgdepends"],
+    "branch": "feature/ppm-sso",
+    "from": "pkgdepends"
+  },
+  {
     "package": "ps",
     "url": "https://github.com/r-lib/ps",
     "via": ["pingr"],
