@@ -266,6 +266,9 @@
 [submodule "rcmdcheck"]
 	path = rcmdcheck
 	url = https://github.com/r-lib/rcmdcheck
+[submodule "rdtools"]
+	path = rdtools
+	url = https://github.com/r-lib/rdtools
 [submodule "rematch2"]
 	path = rematch2
 	url = https://github.com/r-lib/rematch2
