@@ -13,6 +13,12 @@
     "from": "pingr"
   },
   {
+    "package": "rcmdcheck",
+    "url": "https://github.com/r-lib/rcmdcheck",
+    "via": ["devtools"],
+    "from": "devtools"
+  },
+  {
     "package": "systemfonts",
     "url": "https://github.com/r-lib/systemfonts",
     "via": ["textshaping"],
