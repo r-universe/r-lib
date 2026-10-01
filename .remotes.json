@@ -1,5 +1,11 @@
 [
   {
+    "package": "aws.ec2metadata",
+    "url": "https://github.com/cloudyr/aws.ec2metadata",
+    "via": ["gargle"],
+    "from": "gargle"
+  },
+  {
     "package": "pkgcache",
     "url": "https://github.com/r-lib/pkgcache",
     "via": ["pkgdepends"],
