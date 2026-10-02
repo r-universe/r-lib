@@ -20,10 +20,6 @@
 [submodule "available"]
 	path = available
 	url = https://github.com/r-lib/available
-[submodule "aws.ec2metadata"]
-	path = aws.ec2metadata
-	url = https://github.com/cloudyr/aws.ec2metadata
-	registered = false
 [submodule "backports"]
 	path = backports
 	url = https://github.com/r-lib/backports
