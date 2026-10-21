@@ -393,3 +393,6 @@
 [submodule "zip"]
 	path = zip
 	url = https://github.com/r-lib/zip
+[submodule "zstd"]
+	path = zstd
+	url = https://github.com/r-lib/zstd
