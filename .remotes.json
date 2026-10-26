@@ -6,6 +6,12 @@
     "from": "mirai"
   },
   {
+    "package": "otel",
+    "url": "https://github.com/r-lib/otel",
+    "via": ["otelsdk"],
+    "from": "otelsdk"
+  },
+  {
     "package": "otelsdk",
     "url": "https://github.com/r-lib/otelsdk",
     "via": ["otel"],
