@@ -6,12 +6,6 @@
     "from": "otelsdk"
   },
   {
-    "package": "otelsdk",
-    "url": "https://github.com/r-lib/otelsdk",
-    "via": ["otel"],
-    "from": "otel"
-  },
-  {
     "package": "pkgcache",
     "url": "https://github.com/r-lib/pkgcache",
     "via": ["pkgdepends"],
