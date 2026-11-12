@@ -21,7 +21,19 @@
   {
     "package": "systemfonts",
     "url": "https://github.com/r-lib/systemfonts",
+    "via": ["svglite"],
+    "from": "svglite"
+  },
+  {
+    "package": "systemfonts",
+    "url": "https://github.com/r-lib/systemfonts",
     "via": ["textshaping"],
     "from": "textshaping"
+  },
+  {
+    "package": "textshaping",
+    "url": "https://github.com/r-lib/textshaping",
+    "via": ["svglite"],
+    "from": "svglite"
   }
 ]
