@@ -301,6 +301,9 @@
 [submodule "rprojroot"]
 	path = rprojroot
 	url = https://github.com/r-lib/rprojroot
+[submodule "rray"]
+	path = rray
+	url = https://github.com/r-lib/rray
 [submodule "scales"]
 	path = scales
 	url = https://github.com/r-lib/scales
