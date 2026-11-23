@@ -33,12 +33,6 @@
   {
     "package": "textshaping",
     "url": "https://github.com/r-lib/textshaping",
-    "via": ["marquee"],
-    "from": "marquee"
-  },
-  {
-    "package": "textshaping",
-    "url": "https://github.com/r-lib/textshaping",
     "via": ["svglite"],
     "from": "svglite"
   }
